@@ -61,6 +61,12 @@ def parse_decklist(path: Path) -> list[tuple[str, int]]:
     return entries
 
 
+def validate_deck_entries(deck_entries: list[tuple[str, int]], expected_total: int = 50) -> None:
+    total_cards = sum(count for _, count in deck_entries)
+    if total_cards != expected_total:
+        raise ValueError(f"Deck must contain exactly {expected_total} cards, got {total_cards}.")
+
+
 def load_cards(path: Path) -> dict[str, Card]:
     data = load_yaml(path)
     cards: dict[str, Card] = {}
@@ -139,7 +145,7 @@ def build_card_models(cards: dict[str, Card], value_table: dict[str, dict]) -> d
                     "outputs": effect_outputs(body_effect, scale=body_total(card)),
                 }
             )
-            if card.resonance_values:
+            if card.resonance_kind in {"pilot_name", "pilot_trait"} and card.resonance_values:
                 rows.append(
                     {
                         "kind": "conditional",
@@ -412,6 +418,7 @@ def main():
     cards = load_cards(Path(args.cards))
     value_table = load_value_table(Path(args.values))
     deck_entries = parse_decklist(Path(args.deck))
+    validate_deck_entries(deck_entries, expected_total=50)
     scenario = load_yaml(Path(args.scenario))["scenario"]
 
     result = run_simulation(

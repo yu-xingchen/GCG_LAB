@@ -184,9 +184,8 @@ cards:
   - 新吉翁
   - 强化人
   resonance:
-    kind: pilot_name
-    values:
-    - 弗尔·伏朗特
+    kind: null
+    values: []
   title_ref: “弗尔·伏朗特”
   series: 机动战士高达UC
 - id: GD03-034
@@ -444,9 +443,8 @@ cards:
   - 朱庇特利斯
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 帕普提马斯·希洛克
+    kind: null
+    values: []
   title_ref: “帕普提马斯·希洛克”
   series: 机动战士高达Z
 - id: GD02-006
@@ -1047,9 +1045,8 @@ cards:
   - 维根
   - X-Rounder
   resonance:
-    kind: pilot_name
-    values:
-    - 杰哈特·葛雷德
+    kind: null
+    values: []
   title_ref: “杰哈特·葛雷德”
   series: 机动战士高达AGE
 - id: GD03-050
@@ -1549,9 +1546,8 @@ cards:
   - 军团
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 天手·让叶（玛秋）
+    kind: null
+    values: []
   title_ref: “天手·让叶（玛秋）”
   series: 机动战士高达GQuuuuuuX
 - id: GD03-091
@@ -1573,9 +1569,8 @@ cards:
   traits:
   - 扎夫特
   resonance:
-    kind: pilot_name
-    values:
-    - 劳·鲁·克鲁泽
+    kind: null
+    values: []
   title_ref: “劳·鲁·克鲁泽”
   series: 机动战士高达SEED
 - id: GD02-001
@@ -1939,9 +1934,8 @@ cards:
   - 民间
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 巴纳吉·林克斯
+    kind: null
+    values: []
   title_ref: “巴纳吉·林克斯”
   series: 机动战士高达UC
 - id: GD02-085
@@ -1964,9 +1958,8 @@ cards:
   - 提坦斯
   - 强化人
   resonance:
-    kind: pilot_name
-    values:
-    - 村雨凤
+    kind: null
+    values: []
   title_ref: “村雨凤”
   series: 机动战士高达Z
 - id: ST02-011
@@ -1988,9 +1981,8 @@ cards:
   traits:
   - OZ
   resonance:
-    kind: pilot_name
-    values:
-    - 杰克斯·马吉斯
+    kind: null
+    values: []
   title_ref: “杰克斯·马吉斯”
   series: 新机动战记高达W
 - id: GD01-031
@@ -2269,9 +2261,8 @@ cards:
   - 地球联邦
   - 明日野家
   resonance:
-    kind: pilot_name
-    values:
-    - 亚瑟姆·明日野
+    kind: null
+    values: []
   title_ref: “亚瑟姆·明日野”
   series: 机动战士高达AGE
 - id: GD03-020
@@ -2996,9 +2987,8 @@ cards:
   traits:
   - 学园
   resonance:
-    kind: pilot_name
-    values:
-    - 斯莱塔·墨丘利
+    kind: null
+    values: []
   title_ref: “斯莱塔·墨丘利”
   series: 机动战士高达 水星的魔女
 - id: ST04-010
@@ -3021,9 +3011,8 @@ cards:
   - 地球联合
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 基拉·大和
+    kind: null
+    values: []
   title_ref: “基拉·大和”
   series: 机动战士高达SEED
 - id: GD01-073
@@ -3134,9 +3123,8 @@ cards:
   - 超大国群
   - 国联
   resonance:
-    kind: pilot_name
-    values:
-    - 格拉汉姆·艾卡
+    kind: null
+    values: []
   title_ref: “格拉汉姆·艾卡”
   series: 机动战士高达OO
 - id: GD02-076
@@ -3713,9 +3701,8 @@ cards:
   - 奥古
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 卡缪·维丹
+    kind: null
+    values: []
   title_ref: “卡缪·维丹”
   series: 机动战士高达Z
 - id: GD03-131
@@ -3812,9 +3799,8 @@ cards:
   - 奥古
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 库瓦特罗·巴吉纳
+    kind: null
+    values: []
   title_ref: “库瓦特罗·巴吉纳”
   series: 机动战士高达Z
 - id: GD02-073
@@ -4035,9 +4021,8 @@ cards:
   traits:
   - 学园
   resonance:
-    kind: pilot_name
-    values:
-    - 伊兰·凯莱斯（强化人4号）
+    kind: null
+    values: []
   title_ref: “伊兰·凯莱斯（强化人4号）”
   series: 机动战士高达 水星的魔女
 - id: GD01-120
@@ -4081,9 +4066,8 @@ cards:
   traits:
   - 加拉尔霍恩
   resonance:
-    kind: pilot_name
-    values:
-    - 麦基利斯·法里德
+    kind: null
+    values: []
   title_ref: “麦基利斯·法里德”
   series: 机动战士高达 铁血的孤儿
 - id: GD02-069
@@ -4127,9 +4111,8 @@ cards:
   traits:
   - 奥布
   resonance:
-    kind: pilot_name
-    values:
-    - 卡嘉莉·尤拉·阿斯哈
+    kind: null
+    values: []
   title_ref: “卡嘉莉·尤拉·阿斯哈”
   series: 机动战士高达SEED
 - id: GD03-070
@@ -4193,9 +4176,8 @@ cards:
   traits:
   - 学园
   resonance:
-    kind: pilot_name
-    values:
-    - 雀丘利·潘兰杞
+    kind: null
+    values: []
   title_ref: “雀丘利·潘兰杞”
   series: 机动战士高达 水星的魔女
 - id: GD02-130
@@ -4241,9 +4223,8 @@ cards:
   traits:
   - 学园
   resonance:
-    kind: pilot_name
-    values:
-    - 盖尔·杰特克
+    kind: null
+    values: []
   title_ref: “盖尔·杰特克”
   series: 机动战士高达 水星的魔女
 - id: GD02-099
@@ -4265,9 +4246,8 @@ cards:
   traits:
   - 加拉尔霍恩
   resonance:
-    kind: pilot_name
-    values:
-    - 加里奥·巴度温
+    kind: null
+    values: []
   title_ref: “加里奥·巴度温”
   series: 机动战士高达 铁血的孤儿
 - id: GD03-099
@@ -4289,9 +4269,8 @@ cards:
   traits:
   - 奥古
   resonance:
-    kind: pilot_name
-    values:
-    - 艾玛·辛
+    kind: null
+    values: []
   title_ref: “艾玛·辛”
   series: 机动战士高达Z
 - id: GD03-100
@@ -4315,9 +4294,8 @@ cards:
   - 国联
   - 超兵
   resonance:
-    kind: pilot_name
-    values:
-    - 索玛·皮里斯
+    kind: null
+    values: []
   title_ref: “索玛·皮里斯”
   series: 机动战士高达OO
 - id: GD02-118
@@ -4337,9 +4315,8 @@ cards:
   traits:
   - 加拉尔霍恩
   resonance:
-    kind: pilot_name
-    values:
-    - 艾因·达尔顿
+    kind: null
+    values: []
   title_ref: “艾因·达尔顿”
   series: 机动战士高达 铁血的孤儿
 - id: GD03-077
@@ -4425,9 +4402,8 @@ cards:
   traits:
   - 学园
   resonance:
-    kind: pilot_name
-    values:
-    - 沙迪克·泽内利
+    kind: null
+    values: []
   title_ref: “沙迪克·泽内利”
   series: 机动战士高达 水星的魔女
 - id: GD02-119
@@ -4447,9 +4423,8 @@ cards:
   traits:
   - 加拉尔霍恩
   resonance:
-    kind: pilot_name
-    values:
-    - 卡尔塔·伊修
+    kind: null
+    values: []
   title_ref: “卡尔塔·伊修”
   series: 机动战士高达 铁血的孤儿
 - id: GD02-120
@@ -4469,9 +4444,8 @@ cards:
   traits:
   - 奥古
   resonance:
-    kind: pilot_name
-    values:
-    - 花·园丽
+    kind: null
+    values: []
   title_ref: “花·园丽”
   series: 机动战士高达Z
 - id: GD03-120
@@ -4492,9 +4466,8 @@ cards:
   - 超大国群
   - 国联
   resonance:
-    kind: pilot_name
-    values:
-    - 帕特里克·克拉萨瓦
+    kind: null
+    values: []
   title_ref: “帕特里克·克拉萨瓦”
   series: 机动战士高达OO
 - id: GD03-121
@@ -4515,9 +4488,8 @@ cards:
   - 奥古
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 小林胜
+    kind: null
+    values: []
   title_ref: “小林胜”
   series: 机动战士高达Z
 - id: GD03-122
@@ -4538,9 +4510,8 @@ cards:
   - 超大国群
   - 国联
   resonance:
-    kind: pilot_name
-    values:
-    - 谢尔盖·斯米尔诺夫
+    kind: null
+    values: []
   title_ref: “谢尔盖·斯米尔诺夫”
   series: 机动战士高达OO
 - id: ST04-013
@@ -4560,9 +4531,8 @@ cards:
   traits:
   - 地球联合
   resonance:
-    kind: pilot_name
-    values:
-    - 穆·拉·弗拉格
+    kind: null
+    values: []
   title_ref: “穆·拉·弗拉格”
   series: 机动战士高达SEED
 - id: GD03-119
@@ -4898,9 +4868,8 @@ cards:
   - 新吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 哈曼·卡恩
+    kind: null
+    values: []
   title_ref: “哈曼·卡恩”
   series: 机动战士高达Z
 - id: GD02-039
@@ -5479,9 +5448,8 @@ cards:
   - 新吉翁
   - 强化人
   resonance:
-    kind: pilot_name
-    values:
-    - 玛丽达·库尔斯
+    kind: null
+    values: []
   title_ref: “玛丽达·库尔斯”
   series: 机动战士高达UC
 - id: GD03-092
@@ -5504,9 +5472,8 @@ cards:
   - 吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 尼娅安
+    kind: null
+    values: []
   title_ref: “尼娅安”
   series: 机动战士高达GQuuuuuuX
 - id: GD01-094
@@ -5529,9 +5496,8 @@ cards:
   - 扎夫特
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 伊扎克·玖尔
+    kind: null
+    values: []
   title_ref: “伊扎克·玖尔”
   series: 机动战士高达SEED
 - id: GD02-093
@@ -5553,9 +5519,8 @@ cards:
   traits:
   - 新联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 奥尔巴·弗罗斯特
+    kind: null
+    values: []
   title_ref: “奥尔巴·弗罗斯特”
   series: 机动新世纪高达X
 - id: ST08-002
@@ -5841,9 +5806,8 @@ cards:
   traits:
   - 新联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 夏基亚·弗罗斯特
+    kind: null
+    values: []
   title_ref: “夏基亚·弗罗斯特”
   series: 机动新世纪高达X
 - id: GD03-093
@@ -5866,9 +5830,8 @@ cards:
   - 宇宙革命军
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 卡利斯·罗迪拉斯
+    kind: null
+    values: []
   title_ref: “卡利斯·罗迪拉斯”
   series: 机动新世纪高达X
 - id: ST04-011
@@ -5891,9 +5854,8 @@ cards:
   - 扎夫特
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 阿斯兰·萨拉
+    kind: null
+    values: []
   title_ref: “阿斯兰·萨拉”
   series: 机动战士高达SEED
 - id: ST08-010
@@ -5916,9 +5878,8 @@ cards:
   - 马夫蒂
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 哈萨维·诺亚
+    kind: null
+    values: []
   title_ref: “哈萨维·诺亚”
   series: 机动战士高达 闪光的哈萨维
 - id: GD02-041
@@ -6029,9 +5990,8 @@ cards:
   - 扎夫特
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 迪亚哥·艾尔斯曼
+    kind: null
+    values: []
   title_ref: “迪亚哥·艾尔斯曼”
   series: 机动战士高达SEED
 - id: GD03-041
@@ -6229,9 +6189,8 @@ cards:
   traits:
   - 马夫蒂
   resonance:
-    kind: pilot_name
-    values:
-    - 加乌曼·诺比尔
+    kind: null
+    values: []
   title_ref: “加乌曼·诺比尔”
   series: 机动战士高达 闪光的哈萨维
 - id: GD01-112
@@ -6252,9 +6211,8 @@ cards:
   - 吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 罗妮·贾维
+    kind: null
+    values: []
   title_ref: “罗妮·贾维”
   series: 机动战士高达UC
 - id: GD03-109
@@ -6319,9 +6277,8 @@ cards:
   - 军团
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 诗子·菅井
+    kind: null
+    values: []
   title_ref: “诗子·菅井”
   series: 机动战士高达GQuuuuuuX
 - id: ST08-001
@@ -6366,9 +6323,8 @@ cards:
   - 扎夫特
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 安德鲁·巴尔特菲尔德
+    kind: null
+    values: []
   title_ref: “安德鲁·巴尔特菲尔德”
   series: 机动战士高达SEED
 - id: GD01-114
@@ -6388,9 +6344,8 @@ cards:
   traits:
   - 吉翁
   resonance:
-    kind: pilot_name
-    values:
-    - 约姆·卡克斯
+    kind: null
+    values: []
   title_ref: “约姆·卡克斯”
   series: 机动战士高达UC
 - id: GD01-116
@@ -6411,9 +6366,8 @@ cards:
   - 扎夫特
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 尼可·阿玛菲
+    kind: null
+    values: []
   title_ref: “尼可·阿玛菲”
   series: 机动战士高达SEED
 - id: GD03-111
@@ -6433,9 +6387,8 @@ cards:
   traits:
   - 马夫蒂
   resonance:
-    kind: pilot_name
-    values:
-    - 艾美拉尔达·祖宾
+    kind: null
+    values: []
   title_ref: “艾美拉尔达·祖宾”
   series: 机动战士高达 闪光的哈萨维
 - id: ST03-012
@@ -6455,9 +6408,8 @@ cards:
   traits:
   - 新吉翁
   resonance:
-    kind: pilot_name
-    values:
-    - 安杰洛·梭裴
+    kind: null
+    values: []
   title_ref: “安杰洛·梭裴”
   series: 机动战士高达UC
 - id: ST04-014
@@ -6478,9 +6430,8 @@ cards:
   - 扎夫特
   - 调整者
   resonance:
-    kind: pilot_name
-    values:
-    - 米凯尔·艾曼
+    kind: null
+    values: []
   title_ref: “米凯尔·艾曼”
   series: 机动战士高达SEED
 - id: GD01-111
@@ -6940,9 +6891,8 @@ cards:
   - WB小队
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 阿姆罗·雷
+    kind: null
+    values: []
   title_ref: “阿姆罗·雷”
   series: 机动战士高达
 - id: GD01-010
@@ -7566,11 +7516,8 @@ cards:
   - 地球联合
   - 生体CPU
   resonance:
-    kind: pilot_name
-    values:
-    - 奥尔加
-    - 科洛特
-    - 夏尼
+    kind: null
+    values: []
   title_ref: '“奥尔加”/
 
     “科洛特”/
@@ -7864,9 +7811,8 @@ cards:
   - WB队
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 塞拉·玛斯
+    kind: null
+    values: []
   title_ref: “塞拉·玛斯”
   series: 机动战士高达
 - id: GD03-086
@@ -7888,9 +7834,8 @@ cards:
   traits:
   - 提坦斯
   resonance:
-    kind: pilot_name
-    values:
-    - 亚赞·盖布尔
+    kind: null
+    values: []
   title_ref: “亚赞·盖布尔”
   series: 机动战士高达Z
 - id: ST08-011
@@ -7912,9 +7857,8 @@ cards:
   traits:
   - 地球联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 雷恩·艾姆
+    kind: null
+    values: []
   title_ref: “雷恩·艾姆”
   series: 机动战士高达 闪光的哈萨维
 - id: ST08-006
@@ -8049,9 +7993,8 @@ cards:
   traits:
   - 地球联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 利迪·马瑟纳斯
+    kind: null
+    values: []
   title_ref: “利迪·马瑟纳斯”
   series: 机动战士高达UC
 - id: GD02-086
@@ -8073,9 +8016,8 @@ cards:
   traits:
   - 提坦斯
   resonance:
-    kind: pilot_name
-    values:
-    - 杰里德·梅萨
+    kind: null
+    values: []
   title_ref: “杰里德·梅萨”
   series: 机动战士高达Z
 - id: GD03-085
@@ -8097,9 +8039,8 @@ cards:
   traits:
   - 地球联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 克里斯汀娜·玛肯吉
+    kind: null
+    values: []
   title_ref: “克里斯汀娜·玛肯吉”
   series: 机动战士高达0080口袋里的战争
 - id: GD03-087
@@ -8123,9 +8064,8 @@ cards:
   - 朱庇特利斯
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 萨拉·扎比亚洛夫
+    kind: null
+    values: []
   title_ref: “萨拉·扎比亚洛夫”
   series: 机动战士高达Z
 - id: GD02-002
@@ -8167,9 +8107,8 @@ cards:
   traits:
   - OZ
   resonance:
-    kind: pilot_name
-    values:
-    - 路克蕾琪亚·诺茵
+    kind: null
+    values: []
   title_ref: “路克蕾琪亚·诺茵”
   series: 新机动战记高达W
 - id: GD02-011
@@ -8210,9 +8149,8 @@ cards:
   traits:
   - 地球联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 塔克萨·马克尔
+    kind: null
+    values: []
   title_ref: “塔克萨·马克尔”
   series: 机动战士高达UC
 - id: GD02-102
@@ -8232,9 +8170,8 @@ cards:
   traits:
   - 提坦斯
   resonance:
-    kind: pilot_name
-    values:
-    - 玛瓦·法拉奥
+    kind: null
+    values: []
   title_ref: “玛瓦·法拉奥”
   series: 机动战士高达Z
 - id: GD03-104
@@ -8253,9 +8190,8 @@ cards:
   text: 【主要】/【瞬动】选择对方1张HP不高于3的机体。将其转为休息状态。若友方战斗区中存在<朱庇特利斯>的共鸣机体，则改为选择对方1~2张HP不高于3的机体。
   traits: []
   resonance:
-    kind: pilot_name
-    values:
-    - 蕾柯亚·朗特
+    kind: null
+    values: []
   title_ref: “蕾柯亚·朗特”
   series: 机动战士高达Z
 - id: ST01-012
@@ -8276,9 +8212,8 @@ cards:
   - 地球联邦
   - WB小队
   resonance:
-    kind: pilot_name
-    values:
-    - 隼人·小林
+    kind: null
+    values: []
   title_ref: “隼人·小林”
   series: 机动战士高达
 - id: ST01-013
@@ -8299,9 +8234,8 @@ cards:
   - 地球联邦
   - WB小队
   resonance:
-    kind: pilot_name
-    values:
-    - 凯·西汀
+    kind: null
+    values: []
   title_ref: “凯·西汀”
   series: 机动战士高达
 - id: GD01-099
@@ -8846,9 +8780,8 @@ cards:
   traits:
   - 吉翁
   resonance:
-    kind: pilot_name
-    values:
-    - 多兹鲁·扎比
+    kind: null
+    values: []
   title_ref: “多兹鲁·扎比”
   series: 机动战士高达
 - id: ST03-009
@@ -8979,9 +8912,8 @@ cards:
   - 吉翁
   - 独眼巨人队
   resonance:
-    kind: pilot_name
-    values:
-    - 米海尔·卡明斯基
+    kind: null
+    values: []
   title_ref: “米海尔·卡明斯基”
   series: 机动战士高达0080口袋里的战争
 - id: GD01-091
@@ -9003,9 +8935,8 @@ cards:
   traits:
   - 流星作战
   resonance:
-    kind: pilot_name
-    values:
-    - 张五飞
+    kind: null
+    values: []
   title_ref: “张五飞”
   series: 新机动战记高达W
 - id: GD03-023
@@ -9315,9 +9246,8 @@ cards:
   - 吉翁
   - 独眼巨人队
   resonance:
-    kind: pilot_name
-    values:
-    - 加布里埃尔·拉米雷斯·加尔西亚
+    kind: null
+    values: []
   title_ref: “加布里埃尔·拉米雷斯·加尔西亚”
   series: 机动战士高达0080口袋里的战争
 - id: ST03-007
@@ -9457,9 +9387,8 @@ cards:
   traits:
   - 流星作战
   resonance:
-    kind: pilot_name
-    values:
-    - 希罗·尤尔
+    kind: null
+    values: []
   title_ref: “希罗·尤尔”
   series: 新机动战记高达W
 - id: GD02-020
@@ -9507,9 +9436,8 @@ cards:
   - 明日野家
   - X-Rounder
   resonance:
-    kind: pilot_name
-    values:
-    - 菲利特·明日野
+    kind: null
+    values: []
   title_ref: “菲利特·明日野”
   series: 机动战士高达AGE
 - id: GD02-033
@@ -9628,9 +9556,8 @@ cards:
   traits:
   - 吉翁
   resonance:
-    kind: pilot_name
-    values:
-    - 马·克贝
+    kind: null
+    values: []
   title_ref: “马·克贝”
   series: 机动战士高达
 - id: GD02-089
@@ -9653,9 +9580,8 @@ cards:
   - 吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 拉拉·辛
+    kind: null
+    values: []
   title_ref: “拉拉·辛”
   series: 机动战士高达
 - id: GD01-042
@@ -9814,9 +9740,8 @@ cards:
   traits:
   - 流星作战
   resonance:
-    kind: pilot_name
-    values:
-    - 迪奥·麦克斯韦尔
+    kind: null
+    values: []
   title_ref: “迪奥·麦克斯韦尔”
   series: 新机动战记高达W
 - id: GD01-090
@@ -9839,9 +9764,8 @@ cards:
   - 吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 夏利尔·布尔（GQ）
+    kind: null
+    values: []
   title_ref: “夏利尔·布尔（GQ）”
   series: 机动战士高达GQuuuuuuX
 - id: ST06-010
@@ -9864,9 +9788,8 @@ cards:
   - 军团
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 修司伊藤
+    kind: null
+    values: []
   title_ref: “修司伊藤”
   series: 机动战士高达GQuuuuuuX
 - id: ST07-011
@@ -9888,9 +9811,8 @@ cards:
   traits:
   - CB
   resonance:
-    kind: pilot_name
-    values:
-    - 洛克昂·史特拉托斯
+    kind: null
+    values: []
   title_ref: “洛克昂·史特拉托斯”
   series: 机动战士高达OO
 - id: ST03-011
@@ -9913,9 +9835,8 @@ cards:
   - 吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 夏亚·阿兹纳布尔
+    kind: null
+    values: []
   title_ref: “夏亚·阿兹纳布尔”
   series: 机动战士高达
 - id: ST02-012
@@ -9935,9 +9856,8 @@ cards:
   traits:
   - 流星作战
   resonance:
-    kind: pilot_name
-    values:
-    - 特罗瓦·巴顿
+    kind: null
+    values: []
   title_ref: “特罗瓦·巴顿”
   series: 新机动战记高达W
 - id: GD03-025
@@ -10054,9 +9974,8 @@ cards:
   - CB
   - 超兵
   resonance:
-    kind: pilot_name
-    values:
-    - 阿雷路亚·帕普蒂兹姆
+    kind: null
+    values: []
   title_ref: “阿雷路亚·帕普蒂兹姆”
   series: 机动战士高达OO
 - id: GD01-105
@@ -10141,9 +10060,8 @@ cards:
   - 吉翁
   - 独眼巨人队
   resonance:
-    kind: pilot_name
-    values:
-    - 哈迪·斯坦纳
+    kind: null
+    values: []
   title_ref: “哈迪·斯坦纳”
   series: 机动战士高达0080口袋里的战争
 - id: ST02-013
@@ -10163,9 +10081,8 @@ cards:
   traits:
   - 流星作战
   resonance:
-    kind: pilot_name
-    values:
-    - 卡特尔·拉巴伯·温拿
+    kind: null
+    values: []
   title_ref: “卡特尔·拉巴伯·温拿”
   series: 新机动战记高达W
 - id: ST03-014
@@ -10185,9 +10102,8 @@ cards:
   traits:
   - 吉翁
   resonance:
-    kind: pilot_name
-    values:
-    - 兰巴·拉尔
+    kind: null
+    values: []
   title_ref: “兰巴·拉尔”
   series: 机动战士高达
 - id: GD03-105
@@ -10254,9 +10170,8 @@ cards:
   - 吉翁
   - 独眼巨人队
   resonance:
-    kind: pilot_name
-    values:
-    - 巴纳德·维兹曼
+    kind: null
+    values: []
   title_ref: “巴纳德·维兹曼”
   series: 机动战士高达0080口袋里的战争
 - id: GD01-110
@@ -10276,9 +10191,8 @@ cards:
   traits:
   - 马格亚那克队
   resonance:
-    kind: pilot_name
-    values:
-    - 拉席德·库拉玛
+    kind: null
+    values: []
   title_ref: “拉席德·库拉玛”
   series: 新机动战记高达W
 - id: GD02-105
@@ -10299,9 +10213,8 @@ cards:
   - 吉翁
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 泽维尔·奥利维特
+    kind: null
+    values: []
   title_ref: “泽维尔·奥利维特”
   series: 机动战士高达GQuuuuuuX
 - id: GD02-106
@@ -10321,9 +10234,8 @@ cards:
   traits:
   - 地球联邦
   resonance:
-    kind: pilot_name
-    values:
-    - 沃尔夫·艾尼阿克尔
+    kind: null
+    values: []
   title_ref: “沃尔夫·艾尼阿克尔”
   series: 机动战士高达AGE
 - id: ST06-011
@@ -10343,9 +10255,8 @@ cards:
   traits:
   - 军团
   resonance:
-    kind: pilot_name
-    values:
-    - 盖亚（GQ）
+    kind: null
+    values: []
   title_ref: “盖亚（GQ）”
   series: 机动战士高达GQuuuuuuX
 - id: ST06-013
@@ -10365,9 +10276,8 @@ cards:
   traits:
   - 军团
   resonance:
-    kind: pilot_name
-    values:
-    - 奥尔迪加（GQ）
+    kind: null
+    values: []
   title_ref: “奥尔迪加（GQ）”
   series: 机动战士高达GQuuuuuuX
 - id: GD01-109
@@ -10835,9 +10745,8 @@ cards:
   - 铁华团
   - 阿赖耶识
   resonance:
-    kind: pilot_name
-    values:
-    - 三日月·奥古斯
+    kind: null
+    values: []
   title_ref: “三日月·奥古斯”
   series: 机动战士高达 铁血的孤儿
 - id: ST05-001
@@ -10932,9 +10841,8 @@ cards:
   - 维根
   - X-Rounder
   resonance:
-    kind: pilot_name
-    values:
-    - 德西尔·加勒特
+    kind: null
+    values: []
   title_ref: “德西尔·加勒特”
   series: 机动战士高达AGE
 - id: GD03-129
@@ -11031,7 +10939,6 @@ cards:
     kind: pilot_trait
     values:
     - 迪瓦兹
-    - 铁华团
   title_ref: 特征<迪瓦兹>/<铁华团>
   series: 机动战士高达 铁血的孤儿
 - id: ST05-005
@@ -11217,9 +11124,8 @@ cards:
   - 铁华团
   - 阿赖耶识
   resonance:
-    kind: pilot_name
-    values:
-    - 昭弘·阿尔特兰
+    kind: null
+    values: []
   title_ref: “昭弘·阿尔特兰”
   series: 机动战士高达 铁血的孤儿
 - id: ST07-010
@@ -11242,9 +11148,8 @@ cards:
   - CB
   - 变革者
   resonance:
-    kind: pilot_name
-    values:
-    - 提耶利亚·厄德
+    kind: null
+    values: []
   title_ref: “提耶利亚·厄德”
   series: 机动战士高达OO
 - id: GD02-094
@@ -11267,10 +11172,8 @@ cards:
   - 猎鹰
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 加罗德·兰
-    - 蒂法·安迪尔
+    kind: null
+    values: []
   title_ref: '“加罗德·兰”/
 
     “蒂法·安迪尔”'
@@ -11408,9 +11311,8 @@ cards:
   traits:
   - 迪瓦兹
   resonance:
-    kind: pilot_name
-    values:
-    - 拉芙达·弗兰克兰多
+    kind: null
+    values: []
   title_ref: “拉芙达·弗兰克兰多”
   series: 机动战士高达 铁血的孤儿
 - id: GD03-095
@@ -11432,9 +11334,8 @@ cards:
   traits:
   - 迪瓦兹
   resonance:
-    kind: pilot_name
-    values:
-    - 阿吉·古鲁明
+    kind: null
+    values: []
   title_ref: “阿吉·古鲁明”
   series: 机动战士高达 铁血的孤儿
 - id: GD03-096
@@ -11457,9 +11358,8 @@ cards:
   - 猎鹰
   - 新人类
   resonance:
-    kind: pilot_name
-    values:
-    - 贾米尔·尼特
+    kind: null
+    values: []
   title_ref: “贾米尔·尼特”
   series: 机动新世纪高达X
 - id: GD03-097
@@ -11481,9 +11381,8 @@ cards:
   traits:
   - 民间
   resonance:
-    kind: pilot_name
-    values:
-    - 维斯塔里奥·阿法姆
+    kind: null
+    values: []
   title_ref: “维斯塔里奥·阿法姆”
   series: 机动战士高达 铁血的孤儿UH
 - id: ST07-009
@@ -11505,9 +11404,8 @@ cards:
   traits:
   - CB
   resonance:
-    kind: pilot_name
-    values:
-    - 刹那·F·清英
+    kind: null
+    values: []
   title_ref: “刹那·F·清英”
   series: 机动战士高达OO
 - id: GD03-130
@@ -11615,9 +11513,8 @@ cards:
   - 铁华团
   - 阿赖耶识
   resonance:
-    kind: pilot_name
-    values:
-    - 诺尔巴·西诺
+    kind: null
+    values: []
   title_ref: “诺尔巴·西诺”
   series: 机动战士高达 铁血的孤儿
 - id: GD02-115
@@ -11637,9 +11534,8 @@ cards:
   traits:
   - 猎鹰
   resonance:
-    kind: pilot_name
-    values:
-    - 维兹·斯
+    kind: null
+    values: []
   title_ref: “维兹·斯”
   series: 机动新世纪高达X
 - id: GD02-116
@@ -11659,9 +11555,8 @@ cards:
   traits:
   - 猎鹰
   resonance:
-    kind: pilot_name
-    values:
-    - 罗比·罗伊
+    kind: null
+    values: []
   title_ref: “罗比·罗伊”
   series: 机动新世纪高达X
 - id: GD03-115
@@ -11683,9 +11578,8 @@ cards:
   - 维根
   - X-Rounder
   resonance:
-    kind: pilot_name
-    values:
-    - 尤琳·路歇尔
+    kind: null
+    values: []
   title_ref: “尤琳·路歇尔”
   series: 机动战士高达AGE
 - id: GD02-112
@@ -11726,9 +11620,8 @@ cards:
   text: 【主要】/【瞬动】若友方战斗区存在<迪瓦兹>的共鸣机体，则选择对方1张AP不超过2的机体。将其破坏。
   traits: []
   resonance:
-    kind: pilot_name
-    values:
-    - 阿米达·玛鲁卡
+    kind: null
+    values: []
   title_ref: “阿米达·玛鲁卡”
   series: 机动战士高达 铁血的孤儿
 - id: GD03-116
