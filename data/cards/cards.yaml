@@ -1,0 +1,11795 @@
+﻿version: 1
+source_workbook: 副本副本GCG模型v2.1各效果价值_修改2.xlsx
+sheet: 卡表
+cards:
+- id: GD01-066
+  pack: GD01
+  rarity: LR
+  name: 正义高达
+  color: 白色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【配置时】配置1张“命运-00”（<三舰同盟>·AP2·HP2·《阻挡者》）的机体替代卡。
+
+    【搭乘中】【攻击时】选择我方1张<三舰同盟>的机体替代卡。使其可以在配置的回合中攻击。'
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿斯兰·萨拉
+  title_ref: “阿斯兰·萨拉”
+  series: 机动战士高达SEED
+- id: ST04-001
+  pack: 预组04
+  rarity: LR
+  name: 翔翼型强袭高达
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【搭乘时·等级为Lv.4或更高的机师】选择对方1张HP不高于4的机体。将其放回到其持有者的手牌中。'
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: GD03-073
+  pack: GD03
+  rarity: R
+  name: 格雷兹·艾因
+  color: 白色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 6
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【共鸣中】【启动·瞬动】【每回合1次】若我方废弃区中有6张或更多<加拉尔霍恩>的卡牌，则选择对方1张与此机体进行战斗的机体。本次战斗中，使其AP-3。'
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 艾因·达尔顿
+  title_ref: “艾因·达尔顿”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-072
+  pack: GD02
+  rarity: R
+  name: 百式
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    友方护盾区中存在白色的基地期间，此机体获得《修复1》效果。'
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_name
+    values:
+    - 库瓦特罗·巴吉纳
+  title_ref: “库瓦特罗·巴吉纳”
+  series: 机动战士高达Z
+- id: GD01-068
+  pack: GD01
+  rarity: R
+  name: 完美型强袭高达
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【配置时】选择对方1张HP1的机体。将其放回到其持有者的手牌中。'
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联合
+  title_ref: 特征<地球联合>
+  series: 机动战士高达SEED
+- id: GD01-086
+  pack: GD01
+  rarity: C
+  name: 魔灵高达
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 凡娜迪斯机构
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: GD02-079
+  pack: GD02
+  rarity: C
+  name: 里克·迪亚斯
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 奥古
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: ST03-010
+  pack: 预组03
+  rarity: C
+  name: 弗尔·伏朗特
+  color: 红色
+  type: 机师
+  lv: 6
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】可以配置我方手牌中1张等级不高于Lv.4的<新吉翁>/<吉翁>的机体卡牌。'
+  traits:
+  - 新吉翁
+  - 强化人
+  resonance:
+    kind: pilot_name
+    values:
+    - 弗尔·伏朗特
+  title_ref: “弗尔·伏朗特”
+  series: 机动战士高达UC
+- id: GD03-034
+  pack: GD03
+  rarity: LR
+  name: GQuuuuuuX（Ω精神感应启动时）
+  color: 红色
+  type: 机体
+  lv: 8
+  cost: 7
+  ap: 6
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《压制》
+
+    【配置时】选择对方的1张机体。给与其3点伤害。'
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 天手·让叶（玛秋）
+    - 尼娅安
+  title_ref: '“天手·让叶（玛秋）”/
+
+    “尼娅安”'
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-046
+  pack: GD01
+  rarity: LR
+  name: 暴风高达
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 1
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '【启动·主要】《支援3》
+
+    【搭乘中·<调整者>的机师】【每回合1次】当通过此机体的《支援》效果使<扎夫特>的机体AP+时，将此机体转为活跃状态。'
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪亚哥·艾尔斯曼
+  title_ref: “迪亚哥·艾尔斯曼”
+  series: 机动战士高达SEED
+- id: GD02-046
+  pack: GD02
+  rarity: U
+  name: 塞拉专用轻加农
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方1张机体替代卡。给与其2点伤害。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 塞拉·玛斯
+  title_ref: “塞拉·玛斯”
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-044
+  pack: GD03
+  rarity: C
+  name: 飞行型多托列斯
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】配置1张休息状态的“多托列斯”（<新联邦>·AP0·HP1）的机体替代卡。
+  traits:
+  - 新联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: ST06-001
+  pack: 预组06
+  rarity: LR
+  name: GQuuuuuuX（Ω精神感应启动时）
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】若友方战斗区中存在此机体以外的<军团>机体，则本回合中，此机体获得《先制攻击》效果。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 天手·让叶（玛秋）
+  title_ref: “天手·让叶（玛秋）”
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-033
+  pack: GD03
+  rarity: LR
+  name: 天帝高达
+  color: 红色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【搭乘中·<扎夫特>的机师】我方回合中，我方所有<扎夫特>的机体AP+2。
+
+    【攻击时】选择对方的1张机体。此机体每拥有4点AP给与其1点伤害。'
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 劳·鲁·克鲁泽
+  title_ref: “劳·鲁·克鲁泽”
+  series: 机动战士高达SEED
+- id: ST04-006
+  pack: 预组04
+  rarity: LR
+  name: 神盾高达
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】若此机体的AP为5或更高，则选择对方1张Lv.5或更高等级的机体，给与其3点伤害。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿斯兰·萨拉
+  title_ref: “阿斯兰·萨拉”
+  series: 机动战士高达SEED
+- id: GD03-035
+  pack: GD03
+  rarity: LR
+  name: GFreD
+  color: 红色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【启动·主要】【每回合1次】①，将我方废弃区中1张机师卡牌从游戏中移除：给与对方所有机体1点伤害。
+
+    【共鸣时】本回合中，此机体可以选择对方活跃状态且AP不高于此机体的机体作为攻击对象。'
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 尼娅安
+  title_ref: “尼娅安”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-045
+  pack: GD01
+  rarity: LR
+  name: 决斗高达 强袭尸装
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】确认我方卡组最上方的3张牌，可以配置其中1张等级不高于Lv.4的<扎夫特>的机体卡牌。剩余的卡牌随机放回到卡组最下方。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 伊扎克·玖尔
+  title_ref: “伊扎克·玖尔”
+  series: 机动战士高达SEED
+- id: ST02-016
+  pack: 预组02
+  rarity: C
+  name: 科西嘉基地
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 3
+  ap: 0
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    此后，若是我方的回合，则配置1张“多鲁基斯”（<OZ>·AP4·HP2）的机体替代卡。在我方的回合，若我方废弃区中有卡牌名称中包含“科西嘉基地”的卡牌，则改为配置2张“里奥（<OZ>·AP1·HP1）的机体替代卡。'
+  traits:
+  - OZ
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-084
+  pack: GD03
+  rarity: R
+  name: 帕普提马斯·希洛克
+  color: 蓝色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】选择我方1张此机体以外的机体。本回合中，使其获得《修复2》效果。此后，若其为<朱庇特利斯>，则我方抽取1张卡牌。'
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 帕普提马斯·希洛克
+  title_ref: “帕普提马斯·希洛克”
+  series: 机动战士高达Z
+- id: GD02-006
+  pack: GD02
+  rarity: R
+  name: 禁断高达
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    我方回合中，此机体不会受到来自对方等级不高于Lv.2的机体的战斗伤害。'
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 生体CPU
+  title_ref: 特征<生体CPU>
+  series: 机动战士高达SEED
+- id: GD03-001
+  pack: GD03
+  rarity: LR
+  name: 高达NT-1
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《修复2》
+
+    【搭乘时】选择对方1张休息状态的机体。给与其1点伤害。通过此效果破坏对方的机体时，我方抽取1张卡牌。'
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 克里斯汀娜·玛肯吉
+    - 阿姆罗·雷
+  title_ref: “克里斯汀娜·玛肯吉”/“阿姆罗·雷”
+  series: 机动战士高达0080口袋里的战争
+- id: GD01-003
+  pack: GD01
+  rarity: LR
+  name: '独角兽高达2号机报丧女妖
+
+    （毁灭模式）'
+  color: 蓝色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【攻击时】选择我方废弃区中的12张卡牌。将选择的卡牌放回到其持有者的卡组中，并进行切洗。若那样做的话，则将此机体转为活跃状态，且本回合中，此机体获得《先制攻击》效果。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 玛丽达·库尔斯
+  title_ref: “玛丽达·库尔斯”
+  series: 机动战士高达UC
+- id: GD03-002
+  pack: GD03
+  rarity: LR
+  name: 铁奥
+  color: 蓝色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《修复3》
+
+    【搭乘中】当我方此机体以外的拥有《修复》效果的机体攻击时，选择对方1张等级不高于该机体Lv.数值的机体。将其转为休息状态。'
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 帕普提马斯·希洛克
+  title_ref: “帕普提马斯·希洛克”
+  series: 机动战士高达Z
+- id: GD01-019
+  pack: GD01
+  rarity: U
+  name: 拜亚兰改装型
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 对方战斗区中存在4张或更多机体的期间，此机体获得《阻挡者》效果。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD03-003
+  pack: GD03
+  rarity: R
+  name: 梅萨拉
+  color: 蓝色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》《修复1》
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 朱庇特利斯
+  title_ref: 特征<朱庇特利斯>
+  series: 机动战士高达Z
+- id: ST01-001
+  pack: 预组01
+  rarity: LR
+  name: 高达
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《修复2》
+
+    【搭乘中】我方的回合中，我方所有机体的AP+1。'
+  traits:
+  - 地球联邦
+  - WB小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿姆罗·雷
+  title_ref: “阿姆罗·雷”
+  series: 机动战士高达
+- id: GD01-029
+  pack: GD01
+  rarity: R
+  name: 神龙高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: '《突破4》
+
+    【攻击时】选择对方1张等级不高于Lv.3且持有《阻挡者》的机体。将其破坏。'
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 张五飞
+  title_ref: “张五飞”
+  series: 新机动战记高达W
+- id: GD01-024
+  pack: GD01
+  rarity: LR
+  name: 飞翼高达零式
+  color: 绿色
+  type: 机体
+  lv: 8
+  cost: 8
+  ap: 5
+  hp: 7
+  terrain:
+    space: true
+    ground: true
+  text: '《高机动》
+
+    【配置时】给与所有等级不高于Lv.5的机体3点伤害。'
+  traits:
+  - G小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 希罗·尤尔
+  title_ref: “希罗·尤尔”
+  series: 新机动战记高达W
+- id: ST06-005
+  pack: 预组06
+  rarity: LR
+  name: 红色高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '《突破1》
+
+    【攻击时】选择友方1~2张<军团>的机体。本回合中，使选择的机体AP+2。'
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 修司伊藤
+  title_ref: “修司伊藤”
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-018
+  pack: GD03
+  rarity: LR
+  name: 双头龙高达
+  color: 绿色
+  type: 机体
+  lv: 8
+  cost: 6
+  ap: 5
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: '《突破5》
+
+    【攻击时】选择对方1张拥有《阻挡者》效果的机体。给与其5点伤害。'
+  traits:
+  - G小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 张五飞
+  title_ref: “张五飞”
+  series: 新机动战记高达W
+- id: GD01-025
+  pack: GD01
+  rarity: LR
+  name: 死神高达
+  color: 绿色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 5
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 【搭乘时·<流星作战>的机师】我方放置1张休息状态的能源。此后，本回合中，此机体获得《先制攻击》效果。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪奥·麦克斯韦尔
+  title_ref: “迪奥·麦克斯韦尔”
+  series: 新机动战记高达W
+- id: ST02-001
+  pack: 预组02
+  rarity: LR
+  name: 飞翼高达
+  color: 绿色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《突破5》
+
+    此机体可以选择对方活跃状态的等级不高于Lv.4的机体作为攻击对象。'
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 希罗·尤尔
+  title_ref: “希罗·尤尔”
+  series: 新机动战记高达W
+- id: GD01-027
+  pack: GD01
+  rarity: R
+  name: 大扎姆
+  color: 绿色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: '《突破4》
+
+    【配置时】若我方废弃区有10张或更多<吉翁>/<新吉翁>的机体卡牌，则给与所有拥有《阻挡者》的机体4点伤害。'
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 多兹鲁·扎比
+  title_ref: “多兹鲁·扎比”
+  series: 机动战士高达
+- id: GD01-032
+  pack: GD01
+  rarity: R
+  name: 强人
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时·<吉翁>的机师】选择对方1张不高于Lv.2且持有《阻挡者》的机体。将其破坏。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 马·克贝
+  title_ref: “马·克贝”
+  series: 机动战士高达
+- id: GD01-033
+  pack: GD01
+  rarity: U
+  name: 死神高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 《修复1》
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪奥·麦克斯韦尔
+  title_ref: “迪奥·麦克斯韦尔”
+  series: 新机动战记高达W
+- id: GD01-034
+  pack: GD01
+  rarity: U
+  name: 重装高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 【搭乘中】此机体获得《突破3》效果。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 特罗瓦·巴顿
+  title_ref: “特罗瓦·巴顿”
+  series: 新机动战记高达W
+- id: GD01-030
+  pack: GD01
+  rarity: U
+  name: 里克·大魔
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 《突破2》
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD03-026
+  pack: GD03
+  rarity: U
+  name: 力天使高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《突破3》
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 洛克昂·史特拉托斯
+  title_ref: “洛克昂·史特拉托斯”
+  series: 机动战士高达OO
+- id: GD02-027
+  pack: GD02
+  rarity: U
+  name: 高达AGE-1 勇将型
+  color: 绿色
+  type: 机体
+  lv: 7
+  cost: 4
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 《突破3》
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_name
+    values:
+    - 菲利特·明日野
+  title_ref: “菲利特·明日野”
+  series: 机动战士高达AGE
+- id: GD01-026
+  pack: GD01
+  rarity: R
+  name: 夏亚专用扎古II
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】【破坏时】配置1张休息状态的“夏亚专用扎古II”（<吉翁>·AP3·HP1）的机体替代卡。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏亚·阿兹纳布尔
+  title_ref: “夏亚·阿兹纳布尔”
+  series: 机动战士高达
+- id: GD03-055
+  pack: GD03
+  rarity: R
+  name: 端白星（第2形态）
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时·紫色的机师】选择对方1张等级不高于Lv.2的机体。将其破坏。
+  traits:
+  - 民间
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 维斯塔里奥·阿法姆
+  title_ref: “维斯塔里奥·阿法姆”
+  series: 机动战士高达 铁血的孤儿UH
+- id: GD03-056
+  pack: GD03
+  rarity: R
+  name: 高达·巴巴托斯 适应型
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方的1张机体和对方的1张机体。给与选择的机体1点伤害。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-053
+  pack: GD02
+  rarity: LR
+  name: 高达X
+  color: 紫色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 6
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《压制》
+
+    【共鸣中】我方的回合中，若我方废弃区存在不少于7张卡，则我方其它<猎鹰>机体获得AP+2。'
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_name
+    values:
+    - 加罗德·兰
+  title_ref: “加罗德·兰”
+  series: 机动新世纪高达X
+- id: GD03-117
+  pack: GD03
+  rarity: C
+  name: 奥尔加的号令
+  color: 紫色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】若对方战斗区中存在1~4张机体，则配置1张“格雷兹改”（<铁华团>·AP2·HP2）的机体替代卡；若对方战斗区中存在5张或更多的机体，则配置1张“高达·巴巴托斯（第4形态）”（<铁华团>·AP4·HP4）的机体替代卡。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-094
+  pack: GD03
+  rarity: R
+  name: 杰哈特·葛雷德
+  color: 紫色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】将我方卡组最上方的2张卡牌，置于我方的废弃区中。若通过此效果放置了<维根>的卡牌，则选择对方的1张机体。本回合中，使其AP-2。'
+  traits:
+  - 维根
+  - X-Rounder
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰哈特·葛雷德
+  title_ref: “杰哈特·葛雷德”
+  series: 机动战士高达AGE
+- id: GD03-050
+  pack: GD03
+  rarity: LR
+  name: 高达·巴巴托斯 天狼型
+  color: 紫色
+  type: 机体
+  lv: 7
+  cost: 6
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】选择我方废弃区中3张<铁华团>/<迪瓦兹>的机体卡牌。将选择的卡牌从游戏中移除。若那样做的话，则选择对方的1张机体。给与其2点伤害。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-054
+  pack: GD03
+  rarity: R
+  name: 坚德拉
+  color: 紫色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《高机动》
+
+    【搭乘时·<X-Rounder>的机师】可以选择我方废弃区中4张<维根>的卡牌。将选择的卡牌从游戏中移除。若那样做的话，则选择对方1张等级不高于Lv.4的机体。将其破坏。'
+  traits:
+  - 维根
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰哈特·葛雷德
+  title_ref: “杰哈特·葛雷德”
+  series: 机动战士高达AGE
+- id: GD02-055
+  pack: GD02
+  rarity: LR
+  name: 高达·古辛 重锻型
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 3
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【配置时】选择我方的1张机体和对方的1张机体。给与选择的机体1点伤害。'
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 昭弘·阿尔特兰
+  title_ref: “昭弘·阿尔特兰”
+  series: 机动战士高达 铁血的孤儿
+- id: ST04-012
+  pack: 预组04
+  rarity: C
+  name: 强袭背包
+  color: 白色
+  type: 指令
+  lv: 4
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】若我方战斗区中不存在<地球联合>的机体替代卡，则配置1张“翔翼型强袭高达”（<地球联合>·AP3·HP3·《阻挡者》）的机体替代卡。
+
+    【主要】若我方战斗区中不存在<地球联合>的机体替代卡，则配置1张“巨剑型强袭高达”（<地球联合>·AP4·HP2·《阻挡者》）或“重炮型强袭高达”（<地球联合>·AP2·HP4·《阻挡者》）的机体替代卡。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-077
+  pack: GD01
+  rarity: C
+  name: 强袭高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: ST01-007
+  pack: 预组01
+  rarity: C
+  name: 风灵高达（Bit on Form）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: GD02-078
+  pack: GD02
+  rarity: U
+  name: 铁骑高达
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 伊兰·凯莱斯
+  title_ref: “伊兰·凯莱斯”
+  series: 机动战士高达 水星的魔女
+- id: GD03-072
+  pack: GD03
+  rarity: R
+  name: 翔翼型强袭高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【配置时】若我方战斗区中存在此机体以外的<三舰同盟>机体，则我方抽取1张卡牌。此后，丢弃我方的1张手牌。'
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_name
+    values:
+    - 穆·拉·弗拉格
+  title_ref: “穆·拉·弗拉格”
+  series: 机动战士高达SEED
+- id: GD03-039
+  pack: GD03
+  rarity: R
+  name: 红色高达
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择友方1张此机体以外且活跃状态的<军团>机体。将其转为休息状态。若那样做的话，则选择对方1张AP不高于2的机体。给与其2点伤害。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_trait
+    values:
+    - 军团
+  title_ref: 特征<军团>
+  series: 机动战士高达GQuuuuuuX
+- id: GD02-037
+  pack: GD02
+  rarity: LR
+  name: 维萨戈高达
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《突破1》
+
+    【配置时】若对方的护盾不多于3张，则选择对方1张AP不高于5的机体。给与其2点伤害。'
+  traits:
+  - 新联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏基亚·弗罗斯特
+  title_ref: “夏基亚·弗罗斯特”
+  series: 机动新世纪高达X
+- id: GD01-051
+  pack: GD01
+  rarity: U
+  name: 刹帝利
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 强化人
+  title_ref: 特征<强化人>
+  series: 机动战士高达UC
+- id: GD03-047
+  pack: GD03
+  rarity: C
+  name: 迪因（指挥官用）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 劳·鲁·克鲁泽
+  title_ref: “劳·鲁·克鲁泽”
+  series: 机动战士高达SEED
+- id: ST08-003
+  pack: 预组08
+  rarity: C
+  name: 梅萨F型Naked（指挥官机）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_trait
+    values:
+    - 马夫蒂
+  title_ref: 特征<马夫蒂>
+  series: 机动战士高达 闪光的哈萨维
+- id: ST08-005
+  pack: 预组08
+  rarity: C
+  name: 梅萨F02型布雷
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: ST03-001
+  pack: 预组03
+  rarity: LR
+  name: 新安州
+  color: 红色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '【搭乘中】此机体获得《高机动》效果。
+
+    我方的回合中，当此机体通过战斗伤害破坏对方护盾区的卡牌时，选择对方的1张机体。给与其2点伤害。'
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 弗尔·伏朗特
+  title_ref: “弗尔·伏朗特”
+  series: 机动战士高达UC
+- id: GD03-038
+  pack: GD03
+  rarity: R
+  name: 盖兹（指挥官用）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '【启动·主要】《支援1》
+
+    我方的回合中，当此机体因效果转为休息状态时，选择我方1张<扎夫特>的机体。本回合中，使其AP+2。'
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 劳·鲁·克鲁泽
+  title_ref: “劳·鲁·克鲁泽”
+  series: 机动战士高达SEED
+- id: GD01-050
+  pack: GD01
+  rarity: R
+  name: 拉寇
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 【攻击时】若此机体的AP为5或更高，且正在攻击对方的机体，则选择对方的1张机体。给与其2点伤害。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_trait
+    values:
+    - 扎夫特
+  title_ref: 特征<扎夫特>
+  series: 机动战士高达SEED
+- id: GD01-044
+  pack: GD01
+  rarity: LR
+  name: 刹帝利
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时·<强化人>/<新人类>的机师】选择对方的1~2张机体。给与选择的机体1点伤害。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 玛丽达·库尔斯
+  title_ref: “玛丽达·库尔斯”
+  series: 机动战士高达UC
+- id: GD02-036
+  pack: GD02
+  rarity: LR
+  name: 卡碧尼
+  color: 红色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【共鸣时】本回合中，此机体获得《压制》效果。
+
+    【搭乘中·<新吉翁>的机师】【攻击时】选择对方1张受到过伤害的机体。给与其2点伤害。'
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈曼·卡恩
+  title_ref: “哈曼·卡恩”
+  series: 机动战士高达Z
+- id: GD02-038
+  pack: GD02
+  rarity: LR
+  name: GQuuuuuuX（Ω精神感应启动时）
+  color: 红色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】确认我方卡组最上方的3张卡牌，可以配置其中1张等级不高于Lv.4的<军团>机体卡牌。剩余的卡牌随机放回到卡组最下方。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 天手·让叶（玛秋）
+  title_ref: “天手·让叶（玛秋）”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-049
+  pack: GD01
+  rarity: R
+  name: 迅雷高达
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张AP为5或更高的〈扎夫特〉的机体。本回合中，使其获得《先制攻击》效果。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 尼可·阿玛菲
+  title_ref: “尼可·阿玛菲”
+  series: 机动战士高达SEED
+- id: ST06-009
+  pack: 预组06
+  rarity: C
+  name: 天手·让叶（玛秋）
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】确认我方卡组最上方的1张牌。若其为<军团>的卡牌，则可以将其公开并加入手牌。剩余的卡牌放回到卡组最下方。'
+  traits:
+  - 军团
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 天手·让叶（玛秋）
+  title_ref: “天手·让叶（玛秋）”
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-091
+  pack: GD03
+  rarity: R
+  name: 劳·鲁·克鲁泽
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】选择我方废弃区中1张<扎夫特>的基地卡牌。将其加入手牌。'
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 劳·鲁·克鲁泽
+  title_ref: “劳·鲁·克鲁泽”
+  series: 机动战士高达SEED
+- id: GD02-001
+  pack: GD02
+  rarity: LR
+  name: 精神感应高达
+  color: 蓝色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《突破3》
+
+    【搭乘中·<强化人>的机师】我方<提坦斯>的机体通过伤害破坏对方护盾区的卡牌时，此机体恢复2点。'
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 村雨凤
+  title_ref: “村雨凤”
+  series: 机动战士高达Z
+- id: GD01-013
+  pack: GD01
+  rarity: C
+  name: 高达
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿姆罗·雷
+  title_ref: “阿姆罗·雷”
+  series: 机动战士高达
+- id: GD01-018
+  pack: GD01
+  rarity: C
+  name: 里歇尔
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-017
+  pack: GD02
+  rarity: C
+  name: 德尔塔PLUS（乘浪者形态）
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 《修复2》
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 利迪·马瑟纳斯
+  title_ref: “利迪·马瑟纳斯”
+  series: 机动战士高达UC
+- id: GD02-019
+  pack: GD02
+  rarity: C
+  name: 强夺高达（MA形态）
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 生体CPU
+  title_ref: 特征<生体CPU>
+  series: 机动战士高达SEED
+- id: GD02-007
+  pack: GD02
+  rarity: U
+  name: 精神感应高达（MA形态）
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《修复2》
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 强化人
+  title_ref: 特征<强化人>
+  series: 机动战士高达Z
+- id: GD03-016
+  pack: GD03
+  rarity: C
+  name: 全装甲独角兽高达（独角兽模式）
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 民间
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳吉·林克斯
+  title_ref: “巴纳吉·林克斯”
+  series: 机动战士高达UC
+- id: ST08-007
+  pack: 预组08
+  rarity: C
+  name: 佩涅罗佩
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 雷恩·艾姆
+  title_ref: “雷恩·艾姆”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD03-005
+  pack: GD03
+  rarity: R
+  name: 刹帝利·破损
+  color: 蓝色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《修复1》
+
+    【配置时】我方抽取1张卡牌。'
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 玛丽达·库尔斯
+  title_ref: “玛丽达·库尔斯”
+  series: 机动战士高达UC
+- id: GD03-010
+  pack: GD03
+  rarity: U
+  name: 全装甲独角兽高达（毁灭模式）
+  color: 蓝色
+  type: 机体
+  lv: 8
+  cost: 6
+  ap: 6
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: 《修复3》
+  traits:
+  - 民间
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳吉·林克斯
+  title_ref: “巴纳吉·林克斯”
+  series: 机动战士高达UC
+- id: GD03-008
+  pack: GD03
+  rarity: U
+  name: 波利诺克·沙曼
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】此机体获得《修复2》效果。
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 朱庇特利斯
+  title_ref: 特征<朱庇特利斯>
+  series: 机动战士高达Z
+- id: GD01-004
+  pack: GD01
+  rarity: R
+  name: 钢加农
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '《修复1》
+
+    【搭乘时】选择对方1张HP不高于2的机体。将其转为休息状态。'
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: pilot_trait
+    values:
+    - WB队
+  title_ref: 特征<WB队>
+  series: 机动战士高达
+- id: GD01-020
+  pack: GD01
+  rarity: C
+  name: 安克夏
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】选择对方1张休息状态的机体。给与其1点伤害。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-001
+  pack: GD01
+  rarity: LR
+  name: 高达
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '我方所有<WB队>的机体获得《修复1》效果。
+
+    【搭乘时】若我方战斗区中存在2张或更多此机体以外的机体，则我方抽取1张卡牌。'
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿姆罗·雷
+  title_ref: “阿姆罗·雷”
+  series: 机动战士高达
+- id: ST01-002
+  pack: 预组01
+  rarity: C
+  name: 高达（MA形态）
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: false
+  text: 【搭乘时·<WB队>的机师】我方抽取1张卡牌。
+  traits:
+  - 地球联邦
+  - WB小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿姆罗·雷
+  title_ref: “阿姆罗·雷”
+  series: 机动战士高达
+- id: GD01-088
+  pack: GD01
+  rarity: U
+  name: 巴纳吉·林克斯
+  color: 蓝色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】我方抽取1张卡牌。'
+  traits:
+  - 民间
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳吉·林克斯
+  title_ref: “巴纳吉·林克斯”
+  series: 机动战士高达UC
+- id: GD02-085
+  pack: GD02
+  rarity: R
+  name: 村雨凤
+  color: 蓝色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【每回合1次】我方回合中，当此机体回复时，若我方手牌数不超过4张，则我方抓取1张手牌。'
+  traits:
+  - 提坦斯
+  - 强化人
+  resonance:
+    kind: pilot_name
+    values:
+    - 村雨凤
+  title_ref: “村雨凤”
+  series: 机动战士高达Z
+- id: ST02-011
+  pack: 预组02
+  rarity: C
+  name: 杰克斯·马吉斯
+  color: 蓝色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】我方的回合中，当此机体通过战斗伤害破坏对方的机体时，我方抽取1张卡牌。'
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰克斯·马吉斯
+  title_ref: “杰克斯·马吉斯”
+  series: 新机动战记高达W
+- id: GD01-031
+  pack: GD01
+  rarity: U
+  name: 格鲁古古
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 吉翁
+  title_ref: 特征<吉翁>
+  series: 机动战士高达
+- id: GD01-040
+  pack: GD01
+  rarity: C
+  name: 飞翼高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 希罗·尤尔
+  title_ref: “希罗·尤尔”
+  series: 新机动战记高达W
+- id: GD03-031
+  pack: GD03
+  rarity: C
+  name: 高达AGE-1 浅滩型
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_trait
+    values:
+    - 明日野家
+  title_ref: 特征<明日野家>
+  series: 机动战士高达AGE
+- id: ST02-004
+  pack: 预组02
+  rarity: C
+  name: 沙漠高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡特尔·拉巴伯·温拿
+  title_ref: “卡特尔·拉巴伯·温拿”
+  series: 新机动战记高达W
+- id: ST03-016
+  pack: 预组03
+  rarity: C
+  name: 法梅尔
+  color: 绿色
+  type: 基地
+  lv: 3
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    此后，若是我方的回合，则配置1张“夏亚专用扎古II”（<吉翁>·AP3·HP1）的休息状态的机体替代卡。'
+  traits:
+  - 吉翁
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: ST06-006
+  pack: 预组06
+  rarity: C
+  name: 红色高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 修司伊藤
+  title_ref: “修司伊藤”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-125
+  pack: GD01
+  rarity: U
+  name: 赞吉巴尔号
+  color: 绿色
+  type: 基地
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若是我方的回合，则可以配置我方手牌中1张等级不高于Lv.4的<吉翁>的机体卡牌。'
+  traits:
+  - 吉翁
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: ST07-005
+  pack: 预组07
+  rarity: LR
+  name: 力天使高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '我方的回合中，当此机体通过战斗伤害破坏对方的机体时，此机体回复2点。
+
+    【共鸣中】此机体的AP+2。'
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 洛克昂·史特拉托斯
+  title_ref: “洛克昂·史特拉托斯”
+  series: 机动战士高达OO
+- id: ST03-006
+  pack: 预组03
+  rarity: LR
+  name: 夏亚专用扎古II
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【破坏时】确认我方卡组最上方的3张牌。将其中1张<吉翁>/<新吉翁>的机体卡牌其公开并加入手牌。剩余的卡牌放回到卡组最下方。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏亚·阿兹纳布尔
+  title_ref: “夏亚·阿兹纳布尔”
+  series: 机动战士高达
+- id: GD02-023
+  pack: GD02
+  rarity: R
+  name: 高达AGE-1 飞燕型
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】我方为Lv.7或更高等级的期间，此机体获得《先制攻击》。
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_name
+    values:
+    - 菲利特·明日野
+  title_ref: “菲利特·明日野”
+  series: 机动战士高达AGE
+- id: GD03-017
+  pack: GD03
+  rarity: LR
+  name: 京宝梵
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】选择我方废弃区中1张<独眼巨人队>的机师卡牌。将其加入手牌。
+
+    【搭乘时·<独眼巨人队>的机师】我方所有<独眼巨人队>的机体，本回合中，可以选择对方活跃状态且AP不高于5的机体作为攻击对象。'
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_name
+    values:
+    - 米海尔·卡明斯基
+  title_ref: “米海尔·卡明斯基”
+  series: 机动战士高达0080口袋里的战争
+- id: GD03-088
+  pack: GD03
+  rarity: R
+  name: 亚瑟姆·明日野
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】若此机体为<AGE系统>，则此机体的AP+1，并获得《突破1》效果。'
+  traits:
+  - 地球联邦
+  - 明日野家
+  resonance:
+    kind: pilot_name
+    values:
+    - 亚瑟姆·明日野
+  title_ref: “亚瑟姆·明日野”
+  series: 机动战士高达AGE
+- id: GD03-020
+  pack: GD03
+  rarity: R
+  name: 扎古II改
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 1
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: '【搭乘时】若我方废弃区中有4张或更多<独眼巨人队>的卡牌，则配置2张休息状态的“广告气球”（<民间>·AP0·HP1·此机体无法转为活跃状态且无法被机师搭乘）的机体替代卡。
+
+    我方战斗区存在卡牌名包含“广告气球”的机体期间，此机体不会受到来自对方的战斗伤害。'
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳德·维兹曼
+  title_ref: “巴纳德·维兹曼”
+  series: 机动战士高达0080口袋里的战争
+- id: GD02-062
+  pack: GD02
+  rarity: U
+  name: 百炼（阿米达机）
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 迪瓦兹
+  resonance:
+    kind: pilot_trait
+    values:
+    - 迪瓦兹
+  title_ref: 特征<迪瓦兹>
+  series: 机动战士高达 铁血的孤儿
+- id: ST05-006
+  pack: 预组06
+  rarity: C
+  name: 百炼
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 迪瓦兹
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: ST07-002
+  pack: 预组07
+  rarity: C
+  name: 能天使高达
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 刹那·F·清英
+  title_ref: “刹那·F·清英”
+  series: 机动战士高达OO
+- id: GD03-066
+  pack: GD03
+  rarity: C
+  name: 高达·巴巴托斯（第5形态/地上战式样）
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: ST07-003
+  pack: 预组07
+  rarity: C
+  name: 德天使高达
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 提耶利亚·厄德
+  title_ref: “提耶利亚·厄德”
+  series: 机动战士高达OO
+- id: ST05-002
+  pack: 预组05
+  rarity: C
+  name: 高达·巴巴托斯（第2形态）
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 此机体受到伤害的期间，使此机体AP+2。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-054
+  pack: GD02
+  rarity: LR
+  name: 高达·巴巴托斯（第1形态）
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】若此机体受到过伤害，则我方抽取1张卡牌。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-056
+  pack: GD02
+  rarity: R
+  name: 高达X
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中·<猎鹰>的机师】【破坏时】选择我方废弃区中1张Lv.5或更高等级的<猎鹰>机体卡牌。将其加入手牌。
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_name
+    values:
+    - 加罗德·兰
+  title_ref: “加罗德·兰”
+  series: 机动新世纪高达X
+- id: ST07-001
+  pack: 预组07
+  rarity: LR
+  name: 能天使高达
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '当我方的回合结束时，若我方废弃区中有7张或更多<CB>的卡牌，则选择我方的1张能源。将其转为活跃状态。
+
+    【搭乘时】将我方卡组最上方的2张卡牌，置于我方的废弃区中。若通过此效果放置了<CB>的卡牌，则我方抽取1张卡牌。'
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 刹那·F·清英
+  title_ref: “刹那·F·清英”
+  series: 机动战士高达OO
+- id: GD03-049
+  pack: GD03
+  rarity: LR
+  name: 能天使高达（Trans-Am）
+  color: 紫色
+  type: 机体
+  lv: 7
+  cost: 6
+  ap: 6
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《压制》
+
+    当此机体通过战斗伤害破坏对方护盾区中的卡牌时，若我方废弃区中有10张或更多<CB>的卡牌，则选择对方1张HP最低的机体。将其破坏。'
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 刹那·F·清英
+  title_ref: “刹那·F·清英”
+  series: 机动战士高达OO
+- id: GD02-066
+  pack: GD02
+  rarity: C
+  name: 伽夫兰
+  color: 紫色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 此机体无法选择对方玩家作为攻击对象。
+  traits:
+  - UE
+  - 维根
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: GD02-077
+  pack: GD02
+  rarity: U
+  name: 施瓦尔贝·格雷兹（艾因机）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_trait
+    values:
+    - 加拉尔霍恩
+  title_ref: 特征<加拉尔霍恩>
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-080
+  pack: GD03
+  rarity: C
+  name: 高达·锡蒙力 骑兵型（骑兵形态）
+  color: 白色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】选择我方废弃区中1张<加拉尔霍恩>的指令卡牌。将其加入手牌。
+  traits:
+  - 加拉尔霍恩
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 加里奥·巴度温
+  title_ref: “加里奥·巴度温”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-118
+  pack: GD03
+  rarity: R
+  name: 能力觉醒
+  color: 白色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【瞬动】选择对方1张休息状态且等级不高于Lv.4的机体。将其放回到其持有者的手牌中。此后，若我方废弃区中有2张或更多卡牌名称中包含“能力觉醒”的卡牌，则可以选择友方的1张机体。本回合中，使其获得《阻挡者》效果。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD02-082
+  pack: GD02
+  rarity: C
+  name: 施瓦尔贝·格雷兹（加里奥机）
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在此机体以外的<加拉尔霍恩>机体期间，此机体获得《阻挡者》效果。
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 加里奥·巴度温
+  title_ref: “加里奥·巴度温”
+  series: 机动战士高达 铁血的孤儿
+- id: ST05-008
+  pack: 预组05
+  rarity: C
+  name: 格雷兹（指挥官机）
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_trait
+    values:
+    - 加拉尔霍恩
+  title_ref: 特征<加拉尔霍恩>
+  series: 机动战士高达 铁血的孤儿
+- id: GD01-072
+  pack: GD01
+  rarity: U
+  name: 重炮型强袭高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联合
+  title_ref: 特征<地球联合>
+  series: 机动战士高达SEED
+- id: ST05-007
+  pack: 预组05
+  rarity: LR
+  name: 施瓦尔贝·格雷兹（麦基利斯机）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【搭乘时】选择对方1张等级不高于Lv.3的机体。本回合中，使其AP-2。'
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 麦基利斯·法里德
+  title_ref: “麦基利斯·法里德”
+  series: 机动战士高达 铁血的孤儿
+- id: GD01-065
+  pack: GD01
+  rarity: LR
+  name: 自由高达
+  color: 白色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 4
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【搭乘中】【每回合1次】我方机师搭乘此机体或我方白色机体时，选择对方的1张机体。本回合中，使其获得AP-2。'
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: ST01-014
+  pack: 预组01
+  rarity: C
+  name: 意外事变
+  color: 白色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方的1张机体。本回合中，使其AP-3。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: ST04-015
+  pack: 预组04
+  rarity: C
+  name: 大天使号
+  color: 白色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】【每回合1次】②：选择友方1张拥有《阻挡者》效果的机体。将其转为活跃状态，本回合中，其无法攻击。'
+  traits:
+  - 地球联合
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-085
+  pack: GD01
+  rarity: C
+  name: 学院警卫机
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 学园
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: GD02-080
+  pack: GD02
+  rarity: C
+  name: 尼莫
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 奥古
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: ST05-009
+  pack: 预组05
+  rarity: C
+  name: 格雷兹
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD01-075
+  pack: GD01
+  rarity: U
+  name: 达利尔巴尔德
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方1张HP1的机体。将其放回到其持有者的手牌中。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_trait
+    values:
+    - 学园
+  title_ref: 特征<学园>
+  series: 机动战士高达 水星的魔女
+- id: GD01-076
+  pack: GD01
+  rarity: U
+  name: 恶魔审判者
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 我方废弃区中有4张或更多指令卡牌的期间，此机体的AP+1，HP+1。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_trait
+    values:
+    - 学园
+  title_ref: 特征<学园>
+  series: 机动战士高达 水星的魔女
+- id: GD01-129
+  pack: GD01
+  rarity: U
+  name: 草薙号
+  color: 白色
+  type: 基地
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 4
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择对方1张HP不高于3的机体。将其放回到其持有者的手牌中。'
+  traits:
+  - 三舰同盟
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST04-002
+  pack: 预组04
+  rarity: C
+  name: 强袭高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】我方抽取1张卡牌。此后，丢弃我方的1张手牌。
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: ST04-003
+  pack: 预组04
+  rarity: C
+  name: 梅比乌斯零式
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: false
+  text: 无
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_name
+    values:
+    - 穆·拉·弗拉格
+  title_ref: “穆·拉·弗拉格”
+  series: 机动战士高达SEED
+- id: GD01-117
+  pack: GD01
+  rarity: R
+  name: 魔女与新娘
+  color: 白色
+  type: 指令
+  lv: 5
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方1张HP不高于5的机体。将其放回到其持有者的手牌中。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: ST01-011
+  pack: 预组01
+  rarity: C
+  name: 斯莱塔·墨丘利
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】【每回合1次】选择我方的1张能源。将其转为活跃状态。'
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: ST04-010
+  pack: 预组04
+  rarity: C
+  name: 基拉·大和
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】选择对方的1张机体。本次战斗中，使其AP-2。'
+  traits:
+  - 地球联合
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: GD01-073
+  pack: GD01
+  rarity: U
+  name: 巨剑型强袭高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【攻击时】选择对方1张HP不高于2的机体。将其放回到其持有者的手牌中。
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联合
+  title_ref: 特征<地球联合>
+  series: 机动战士高达SEED
+- id: GD01-071
+  pack: GD01
+  rarity: R
+  name: 铁骑高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【攻击时】选择对方1张机体。本次战斗中，使其AP-2。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_trait
+    values:
+    - 学园
+  title_ref: 特征<学园>
+  series: 机动战士高达 水星的魔女
+- id: GD02-071
+  pack: GD02
+  rarity: R
+  name: 高达Mk-II（奥古式样）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】友方护盾区中存在白色的基地期间，可以选择我方手牌中1张<奥古>的机师，将其搭乘此机体。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_trait
+    values:
+    - 奥古
+  title_ref: 特征<奥古>
+  series: 机动战士高达Z
+- id: GD01-070
+  pack: GD01
+  rarity: R
+  name: 风灵高达
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 我方废弃区中有4张或更多指令卡牌的期间，手牌中的此卡牌费用-2。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: GD03-098
+  pack: GD03
+  rarity: R
+  name: 格拉汉姆·艾卡
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】当休息状态的此机体因效果转为活跃状态时，选择对方1张HP不高于3的机体。将其放回到其持有者的手牌中。'
+  traits:
+  - 超大国群
+  - 国联
+  resonance:
+    kind: pilot_name
+    values:
+    - 格拉汉姆·艾卡
+  title_ref: “格拉汉姆·艾卡”
+  series: 机动战士高达OO
+- id: GD02-076
+  pack: GD02
+  rarity: U
+  name: 暴风高达
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 此机体的AP为5或更高期间，此机体获得《阻挡者》效果。
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_trait
+    values:
+    - 调整者
+  title_ref: 特征<调整者>
+  series: 机动战士高达SEED
+- id: ST01-009
+  pack: 预组01
+  rarity: C
+  name: 传令骑兵
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    此机体无法选择对方玩家作为攻击对象。'
+  traits:
+  - 学园
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: GD03-083
+  pack: GD03
+  rarity: C
+  name: AEU暴徒式
+  color: 白色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 超大国群
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO
+- id: ST01-008
+  pack: 预组01
+  rarity: C
+  name: 学院训练机
+  color: 白色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 学园
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: ST04-004
+  pack: 预组04
+  rarity: C
+  name: 梅比乌斯
+  color: 白色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: false
+  text: 《阻挡者》
+  traits:
+  - 地球联合
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-130
+  pack: GD01
+  rarity: C
+  name: 十三号战术试验区域
+  color: 白色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】将此基地转为休息状态：若友方战斗区中存在〈学园〉的机体，则选择对方的1张机体。本回合中，使其AP-1。'
+  traits:
+  - 学园
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: GD02-074
+  pack: GD02
+  rarity: R
+  name: 风灵高达（改修型）
+  color: 白色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '《高机动》
+
+    【搭乘中】我方废弃区中有4张或更多指令卡牌的期间，此机体获得《阻挡者》效果。'
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: GD03-069
+  pack: GD03
+  rarity: LR
+  name: 格拉汉姆专用联合战旗式改装型
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: '《高机动》
+
+    【共鸣中】当此机体被机师搭乘的回合结束时，将此机体转为活跃状态。'
+  traits:
+  - 超大国群
+  resonance:
+    kind: pilot_name
+    values:
+    - 格拉汉姆·艾卡
+  title_ref: “格拉汉姆·艾卡”
+  series: 机动战士高达OO
+- id: GD03-071
+  pack: GD03
+  rarity: R
+  name: Z高达（生物传感器启动时）
+  color: 白色
+  type: 机体
+  lv: 7
+  cost: 5
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方的1张机体。我方废弃区中每有1张<奥古>的机体卡牌，本回合中，使其AP-1。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡缪·维丹
+  title_ref: “卡缪·维丹”
+  series: 机动战士高达Z
+- id: ST01-006
+  pack: 预组01
+  rarity: LR
+  name: 风灵高达（帕梅特刻痕6）
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择对方1张等级不高于Lv.5的机体。本回合中，使其AP-3。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: GD01-081
+  pack: GD01
+  rarity: C
+  name: M1异端
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在此机体以外的<三舰同盟>机体期间，此机体AP+1，获得《阻挡者》效果。
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-082
+  pack: GD01
+  rarity: U
+  name: 风灵高达（米拉苏尔社制 飞行组件）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】【启动·瞬动】【每回合1次】②：选择对手的1张机体。本次战斗中，使其AP-1。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: GD02-075
+  pack: GD02
+  rarity: U
+  name: 里克·迪亚斯（红）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】选择友方1张活跃状态的基地。将其转为休息状态。若那样做的话，则选择对方1张等级不高于Lv.4的机体。本次战斗中，使其AP-2。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_trait
+    values:
+    - 奥古
+  title_ref: 特征<奥古>
+  series: 机动战士高达Z
+- id: GD01-069
+  pack: GD01
+  rarity: R
+  name: 嫣红强袭
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】【每回合1次】①：选择我方1张休息状态且拥有《阻挡者》效果的白色的机体。将其转为活跃状态，且本回合中，其无法攻击。
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_trait
+    values:
+    - 奥布
+  title_ref: 特征<奥布>
+  series: 机动战士高达SEED
+- id: GD01-074
+  pack: GD01
+  rarity: R
+  name: 雀雀专用学院训练机
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】我方抽取1张卡牌。此后，丢弃我方的1张手牌。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 雀丘利·潘兰杞
+  title_ref: “雀丘利·潘兰杞”
+  series: 机动战士高达 水星的魔女
+- id: GD01-084
+  pack: GD01
+  rarity: C
+  name: 五号审判者
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 学园
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: GD02-083
+  pack: GD02
+  rarity: C
+  name: 格雷兹·骑士型（地上战式样）
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 【破坏时】若在对手回合中，则选择我方1张<加拉尔霍恩>的机体。将其转为活跃状态。
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-079
+  pack: GD03
+  rarity: C
+  name: G防卫者
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 当我方基地因我方机体的效果而转为休息状态时，则可以改为将此机体转为休息状态。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_trait
+    values:
+    - 奥古
+  title_ref: 特征<奥古>
+  series: 机动战士高达Z
+- id: GD03-082
+  pack: GD03
+  rarity: C
+  name: 联合战旗式
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 4
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在2张或更多<超大国群>/<国联>的机体期间，手牌中的此卡牌费用-1。
+  traits:
+  - 超大国群
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO
+- id: ST04-005
+  pack: 预组04
+  rarity: C
+  name: 强袭短剑
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联合
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-118
+  pack: GD01
+  rarity: U
+  name: 洋溢的慈爱
+  color: 白色
+  type: 指令
+  lv: 2
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】我方抽取2张卡牌。此后，丢弃我方的1张手牌。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD03-081
+  pack: GD03
+  rarity: C
+  name: AEU制定式（试验色）
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 此机体只有在我方战斗区中配置了<超大国群>/<国联>机体的回合中才能攻击。
+  traits:
+  - 超大国群
+  resonance:
+    kind: pilot_trait
+    values:
+    - 超大国群
+  title_ref: 特征<超大国群>
+  series: 机动战士高达OO
+- id: GD02-070
+  pack: GD02
+  rarity: LR
+  name: 高达·锡蒙力
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若我方废弃区中有4张或更多<加拉尔霍恩>的卡牌，则我方抽取2张卡牌。若那样做的话，则丢弃我方的2张手牌。
+  traits:
+  - 加拉尔霍恩
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 加里奥·巴度温
+  title_ref: “加里奥·巴度温”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-132
+  pack: GD03
+  rarity: C
+  name: 拉迪修
+  color: 白色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【破坏时】若我方战斗区中存在<奥古>的共鸣机体，则选择对方1张HP不高于4的机体。将其转为休息状态。'
+  traits:
+  - 奥古
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD01-067
+  pack: GD01
+  rarity: LR
+  name: 风灵高达（改修型）
+  color: 白色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择我方废弃区中1张等级不高于LV.5的指令卡牌。将其加入手牌。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 斯莱塔·墨丘利
+  title_ref: “斯莱塔·墨丘利”
+  series: 机动战士高达 水星的魔女
+- id: GD02-097
+  pack: GD02
+  rarity: R
+  name: 卡缪·维丹
+  color: 白色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    友方护盾区中存在白色的基地期间，此机体的AP+2。'
+  traits:
+  - 奥古
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡缪·维丹
+  title_ref: “卡缪·维丹”
+  series: 机动战士高达Z
+- id: GD03-131
+  pack: GD03
+  rarity: R
+  name: 永恒号
+  color: 白色
+  type: 基地
+  lv: 5
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若我方战斗区中存在2张或更多<三舰同盟>的机体，则选择对方1张等级不高于Lv.4的机体。将其放回到其持有者的手牌中。'
+  traits:
+  - 三舰同盟
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD03-074
+  pack: GD03
+  rarity: R
+  name: 铁人桃子
+  color: 白色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】若我方战斗区中存在此机体以外的<超大国群>机体期间，则当对方的机体攻击时，尽可能选择休息状态的此机体作为攻击对象。
+  traits:
+  - 超大国群
+  resonance:
+    kind: pilot_trait
+    values:
+    - 超兵
+  title_ref: 特征<超兵>
+  series: 机动战士高达OO
+- id: ST01-016
+  pack: 预组01
+  rarity: C
+  name: 阿斯提卡西亚高等专门学园 地球宿舍
+  color: 白色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】将此基地转为休息状态：本回合中，友方所有共鸣机体的AP+1。'
+  traits:
+  - 学园
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 水星的魔女
+- id: GD02-098
+  pack: GD02
+  rarity: U
+  name: 库瓦特罗·巴吉纳
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '此卡牌的卡牌名称也视为“夏亚·阿兹纳布尔”
+
+    【爆发】此卡牌加入手牌。
+
+    【共鸣时】若此机体为<奥古>，则我方抽取1张卡牌。若那样做的话，则丢弃我方的1张手牌。'
+  traits:
+  - 奥古
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 库瓦特罗·巴吉纳
+  title_ref: “库瓦特罗·巴吉纳”
+  series: 机动战士高达Z
+- id: GD02-073
+  pack: GD02
+  rarity: R
+  name: 格雷兹·骑士型（卡尔塔机/地上战式样）
+  color: 白色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 5
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 对方回合中，与此机体战斗的对手机体获得《先制攻击》效果。
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡尔塔·伊修
+  title_ref: “卡尔塔·伊修”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-076
+  pack: GD03
+  rarity: U
+  name: 自由高达（流星装备）
+  color: 白色
+  type: 机体
+  lv: 8
+  cost: 6
+  ap: 6
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: 【每回合1次】我方的回合中，当我方<三舰同盟>机体给与对方机体战斗伤害时，可以将对方的该机体放回到其持有者的手牌中。
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: GD03-075
+  pack: GD03
+  rarity: U
+  name: 超级高达
+  color: 白色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【攻击时】选择对方1张没有被机师搭乘的机体。本回合中，使其AP-2。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_trait
+    values:
+    - 奥古
+  title_ref: 特征<奥古>
+  series: 机动战士高达Z
+- id: GD01-079
+  pack: GD01
+  rarity: C
+  name: 空中霸者
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联合
+  title_ref: 特征<地球联合>
+  series: 机动战士高达SEED
+- id: GD01-083
+  pack: GD01
+  rarity: C
+  name: 盖尔专用迪兰扎
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_trait
+    values:
+    - 学园
+  title_ref: 特征<学园>
+  series: 机动战士高达 水星的魔女
+- id: GD02-084
+  pack: GD02
+  rarity: C
+  name: 迪兰扎 劳达专用机
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 1
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_trait
+    values:
+    - 学园
+  title_ref: 特征<学园>
+  series: 机动战士高达 水星的魔女
+- id: GD03-078
+  pack: GD03
+  rarity: U
+  name: 铁人高机动型
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【破坏时】将搭乘此机体的卡牌放回到手牌中。
+  traits:
+  - 超大国群
+  resonance:
+    kind: pilot_name
+    values:
+    - 谢尔盖·斯米尔诺夫
+  title_ref: “谢尔盖·斯米尔诺夫”
+  series: 机动战士高达OO
+- id: GD01-078
+  pack: GD01
+  rarity: C
+  name: 密斯特拉尔
+  color: 白色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: false
+  text: 【配置时】选择对方的1张机体。本回合中，使其AP-1。
+  traits:
+  - 地球联合
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD02-129
+  pack: GD02
+  rarity: R
+  name: 阿卡马
+  color: 白色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此基地不会受到来自对方的效果伤害。'
+  traits:
+  - 奥古
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD01-098
+  pack: GD01
+  rarity: C
+  name: 伊兰·凯莱斯（强化人4号）
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【启动·主要】【每回合一次】若对方有1张AP不高于1的机体，此机体回复1HP。'
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 伊兰·凯莱斯（强化人4号）
+  title_ref: “伊兰·凯莱斯（强化人4号）”
+  series: 机动战士高达 水星的魔女
+- id: GD01-120
+  pack: GD01
+  rarity: C
+  name: 舰炮射击
+  color: 白色
+  type: 指令
+  lv: 2
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方的1张机体。本回合中，使其AP-3。
+
+    【瞬动】选择友方1张拥有《阻挡者》效果的机体。本回合中，使其AP+3。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST05-012
+  pack: 预组05
+  rarity: C
+  name: 麦基利斯·法里德
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】若我方战斗区中存在2张或更多此机体以外的<加拉尔霍恩>/<铁华团>机体，则选择对方1张HP不高于3的机体。将其转为休息状态。'
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 麦基利斯·法里德
+  title_ref: “麦基利斯·法里德”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-069
+  pack: GD02
+  rarity: LR
+  name: Z高达
+  color: 白色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【启动·主要】【每回合1次】选择友方1张激活状态的基地。将其转为休息状态。若那样做的话，则将此机体转为激活状态。且本回合中，此机体无法选择对方玩家作为攻击对象。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡缪·维丹
+  title_ref: “卡缪·维丹”
+  series: 机动战士高达Z
+- id: GD01-096
+  pack: GD01
+  rarity: R
+  name: 卡嘉莉·尤拉·阿斯哈
+  color: 白色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    此机体为白色的期间，此机体获得《阻挡者》效果。'
+  traits:
+  - 奥布
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡嘉莉·尤拉·阿斯哈
+  title_ref: “卡嘉莉·尤拉·阿斯哈”
+  series: 机动战士高达SEED
+- id: GD03-070
+  pack: GD03
+  rarity: LR
+  name: 自由高达
+  color: 白色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 此机体处于休息状态的期间，友方的护盾不会受到来自对方机体的战斗伤害。
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_name
+    values:
+    - 基拉·大和
+  title_ref: “基拉·大和”
+  series: 机动战士高达SEED
+- id: GD01-080
+  pack: GD01
+  rarity: C
+  name: 空中霸者（卡嘉莉机）
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: true
+  text: 【破坏时】选择对方1张等级不高于Lv.2的机体。将其放回到其持有者的手牌中。
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡嘉莉·尤拉·阿斯哈
+  title_ref: “卡嘉莉·尤拉·阿斯哈”
+  series: 机动战士高达SEED
+- id: GD01-119
+  pack: GD01
+  rarity: R
+  name: 铁拳制裁
+  color: 白色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方1张等级不高于Lv.4的机体。本回合中使其获得AP-2。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 雀丘利·潘兰杞
+  title_ref: “雀丘利·潘兰杞”
+  series: 机动战士高达 水星的魔女
+- id: GD02-130
+  pack: GD02
+  rarity: C
+  name: 神马号
+  color: 白色
+  type: 基地
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若友方战斗区中存在<加拉尔霍恩>的共鸣机体，则选择对方的1张机体。本回合中，使其AP-2。'
+  traits:
+  - 加拉尔霍恩
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD01-097
+  pack: GD01
+  rarity: U
+  name: 盖尔·杰特克
+  color: 白色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【启动·主要】【每回合1次】若对方拥有8张或更多手牌，则将此机体转为活跃状态，本回合中，此机体无法攻击。'
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 盖尔·杰特克
+  title_ref: “盖尔·杰特克”
+  series: 机动战士高达 水星的魔女
+- id: GD02-099
+  pack: GD02
+  rarity: C
+  name: 加里奥·巴度温
+  color: 白色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】若我方废弃区中有4张或更多<加拉尔霍恩>的卡牌，则选择对方的1张机体。本回合中，使其AP-2。'
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 加里奥·巴度温
+  title_ref: “加里奥·巴度温”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-099
+  pack: GD03
+  rarity: U
+  name: 艾玛·辛
+  color: 白色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【破坏时】若友方护盾区中存在白色的基地，则选择对方1张等级不高于此机体Lv.数值的机体。将其放回到其持有者的手牌中。'
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_name
+    values:
+    - 艾玛·辛
+  title_ref: “艾玛·辛”
+  series: 机动战士高达Z
+- id: GD03-100
+  pack: GD03
+  rarity: C
+  name: 索玛·皮里斯
+  color: 白色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【破坏时】选择对方的1张机体。本回合中，使其AP-3。'
+  traits:
+  - 超大国群
+  - 国联
+  - 超兵
+  resonance:
+    kind: pilot_name
+    values:
+    - 索玛·皮里斯
+  title_ref: “索玛·皮里斯”
+  series: 机动战士高达OO
+- id: GD02-118
+  pack: GD02
+  rarity: U
+  name: 复仇的决心
+  color: 白色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】若拥有《阻挡者》效果的友方机体正在战斗，则选择对方的1张HP不高于4的机体。将其放回到其持有者的手牌中。
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 艾因·达尔顿
+  title_ref: “艾因·达尔顿”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-077
+  pack: GD03
+  rarity: U
+  name: 正义高达（流星装备）
+  color: 白色
+  type: 机体
+  lv: 8
+  cost: 7
+  ap: 6
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】选择对方1~3张HP不高于3的机体。将选择的卡牌放回到其持有者的手牌中。
+  traits:
+  - 三舰同盟
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿斯兰·萨拉
+  title_ref: “阿斯兰·萨拉”
+  series: 机动战士高达SEED
+- id: GD02-117
+  pack: GD02
+  rarity: R
+  name: 新的心跳
+  color: 白色
+  type: 指令
+  lv: 4
+  cost: 3
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择我方废弃区中1张<奥古>的基地卡牌。将其加入手牌。
+
+    【主要】我方抽取3张卡牌。此后，丢弃我方的2张手牌。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD02-081
+  pack: GD02
+  rarity: C
+  name: 梅塔斯
+  color: 白色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若友方护盾区中存在白色的基地，则选择对方的1张机体。此回合中，使其AP-2。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_name
+    values:
+    - 花·园丽
+  title_ref: “花·园丽”
+  series: 机动战士高达Z
+- id: GD01-122
+  pack: GD01
+  rarity: C
+  name: 暗中活动者
+  color: 白色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择对方1张HP不高于2的机体。将其放回到其持有者的手牌中。若我方战斗区中存在共鸣机体，则改为选择对方1张HP不高于4的机体。
+  traits:
+  - 学园
+  resonance:
+    kind: pilot_name
+    values:
+    - 沙迪克·泽内利
+  title_ref: “沙迪克·泽内利”
+  series: 机动战士高达 水星的魔女
+- id: GD02-119
+  pack: GD02
+  rarity: U
+  name: 面壁九年·坚牢坚固
+  color: 白色
+  type: 指令
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】若我方战斗区中存在<加拉尔霍恩>的共鸣机体，则选择对方的1张机体。此次战斗中，使其AP-3。
+  traits:
+  - 加拉尔霍恩
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡尔塔·伊修
+  title_ref: “卡尔塔·伊修”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-120
+  pack: GD02
+  rarity: C
+  name: 成为机师的志愿
+  color: 白色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择我方1张<奥古>的机体/基地。使其恢复2点。
+  traits:
+  - 奥古
+  resonance:
+    kind: pilot_name
+    values:
+    - 花·园丽
+  title_ref: “花·园丽”
+  series: 机动战士高达Z
+- id: GD03-120
+  pack: GD03
+  rarity: U
+  name: 不死的克拉萨瓦
+  color: 白色
+  type: 指令
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】本回合中，若友方<超大国群>/<国联>的机体通过战斗伤害破坏了对方的机体，则选择友方1张休息状态的<超大国群>/<国联>机体。将其转为活跃状态，且本回合中，其无法攻击。
+  traits:
+  - 超大国群
+  - 国联
+  resonance:
+    kind: pilot_name
+    values:
+    - 帕特里克·克拉萨瓦
+  title_ref: “帕特里克·克拉萨瓦”
+  series: 机动战士高达OO
+- id: GD03-121
+  pack: GD03
+  rarity: C
+  name: 擅自出击
+  color: 白色
+  type: 指令
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择友方的1张基地和对方1张HP不高于3的机体。将选择的基地和机体转为休息状态。
+  traits:
+  - 奥古
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 小林胜
+  title_ref: “小林胜”
+  series: 机动战士高达Z
+- id: GD03-122
+  pack: GD03
+  rarity: C
+  name: 老练的战法
+  color: 白色
+  type: 指令
+  lv: 2
+  cost: '1'
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择对方1张等级不高于Lv.3的机体。将其放回到其持有者的手牌中。
+  traits:
+  - 超大国群
+  - 国联
+  resonance:
+    kind: pilot_name
+    values:
+    - 谢尔盖·斯米尔诺夫
+  title_ref: “谢尔盖·斯米尔诺夫”
+  series: 机动战士高达OO
+- id: ST04-013
+  pack: 预组04
+  rarity: C
+  name: 恩迪米恩之鹰
+  color: 白色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方1张HP不高于3的机体。将其放回到其持有者的手牌中。
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_name
+    values:
+    - 穆·拉·弗拉格
+  title_ref: “穆·拉·弗拉格”
+  series: 机动战士高达SEED
+- id: GD03-119
+  pack: GD03
+  rarity: U
+  name: 笨拙地接近
+  color: 白色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择友方1张休息状态的基地。将其转为活跃状态。若那样做的话，本回合中，对方所有机体的AP-1。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: ST01-014
+  pack: 预组05
+  rarity: C
+  name: 意外事变
+  color: 白色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方的1张机体。本回合中，使其AP-3。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD01-121
+  pack: GD01
+  rarity: U
+  name: 空中换装
+  color: 白色
+  type: 指令
+  lv: 3
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】选择1张休息状态且有《阻挡者》效果的机体。将其转为活跃状态，且本回合中，其无法攻击。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD02-040
+  pack: GD02
+  rarity: R
+  name: 阿斯塔隆高达
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '【启动·主要】《支援2》
+
+    【配置时】选择我方1张此机体以外的<新联邦>机体。本回合中，其不会受到来自对方HP不超过2的机体的战斗伤害。'
+  traits:
+  - 新联邦
+  resonance:
+    kind: pilot_trait
+    values:
+    - 新联邦
+  title_ref: 特征<新联邦>
+  series: 机动新世纪高达X
+- id: GD01-054
+  pack: GD01
+  rarity: R
+  name: 决斗高达
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 此机体的AP为5或更高期间，此机体获得《突破3》效果。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_trait
+    values:
+    - 扎夫特
+  title_ref: 特征<扎夫特>
+  series: 机动战士高达SEED
+- id: ST04-007
+  pack: 预组04
+  rarity: C
+  name: 神盾高达（MA形态）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《突破3》
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿斯兰·萨拉
+  title_ref: “阿斯兰·萨拉”
+  series: 机动战士高达SEED
+- id: GD01-127
+  pack: GD01
+  rarity: U
+  name: 伽莫夫号
+  color: 红色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·瞬动】将此基地转为休息状态：选择友方1张AP5或更高的〈扎夫特〉的机体。本次战斗中，其获得《突破3》。'
+  traits:
+  - 扎夫特
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-060
+  pack: GD01
+  rarity: C
+  name: 水手扎古
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: ST04-008
+  pack: 预组04
+  rarity: C
+  name: 基恩
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST06-004
+  pack: 预组06
+  rarity: C
+  name: 格鲁古古（GQ）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: ST08-014
+  pack: 预组08
+  rarity: C
+  name: 英勇号
+  color: 红色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择我方的1张机体。本回合中，使其AP+2。'
+  traits:
+  - 马夫蒂
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: GD03-045
+  pack: GD03
+  rarity: C
+  name: 瓦力恩特
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在机体替代卡的期间，此机体的AP+1。
+  traits:
+  - 新联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD03-048
+  pack: GD03
+  rarity: C
+  name: GFreD
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【爆发】若对方的护盾不多于3张，则配置1张休息状态的“GFreD”（<吉翁>·AP4·HP3）的机体替代卡。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 尼娅安
+  title_ref: “尼娅安”
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-040
+  pack: GD03
+  rarity: U
+  name: 维萨戈高达&阿斯塔隆高达
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 3
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】此机体获得《高机动》效果。
+  traits:
+  - 新联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏基亚·弗罗斯特
+    - 奥尔巴·弗罗斯特
+  title_ref: '“夏基亚·弗罗斯特”/
+
+    “奥尔巴·弗罗斯特”'
+  series: 机动新世纪高达X
+- id: GD02-091
+  pack: GD02
+  rarity: R
+  name: 哈曼·卡恩
+  color: 红色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】若此机体为红色，则选择对方1张等级不高于此机体Lv.数值的机体。给与其1点伤害。'
+  traits:
+  - 新吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈曼·卡恩
+  title_ref: “哈曼·卡恩”
+  series: 机动战士高达Z
+- id: GD02-039
+  pack: GD02
+  rarity: R
+  name: 加萨C（哈曼·卡恩专用机）
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择对方1张等级不高于Lv.3的机体。给与其1点伤害。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈曼·卡恩
+  title_ref: “哈曼·卡恩”
+  series: 机动战士高达Z
+- id: ST04-009
+  pack: 预组04
+  rarity: C
+  name: 基恩（米凯尔·艾曼专用机）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】【破坏时】若我方战斗区中存在此机体以外的共鸣机体，则我方抽取1张卡牌。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 米凯尔·艾曼
+  title_ref: “米凯尔·艾曼”
+  series: 机动战士高达SEED
+- id: GD03-036
+  pack: GD03
+  rarity: R
+  name: Ξ高达（飞翔形态 ）
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】给与对方的所有机体1点伤害。
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈萨维·诺亚
+  title_ref: “哈萨维·诺亚”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD03-037
+  pack: GD03
+  rarity: R
+  name: 贝迪哥
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】我方的回合中，此机体在和对方拥有【破坏时】效果的机体战斗期间，此机体获得《先制攻击》效果。
+  traits:
+  - 宇宙革命军
+  resonance:
+    kind: pilot_trait
+    values:
+    - 新人类
+  title_ref: 特征<新人类>
+  series: 机动新世纪高达X
+- id: ST04-016
+  pack: 预组04
+  rarity: C
+  name: 维萨里号
+  color: 红色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】将此基地转为休息状态：选择友方的1张机体。本回合中，使其AP+1。'
+  traits:
+  - 扎夫特
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD03-127
+  pack: GD03
+  rarity: U
+  name: 雅金·杜维
+  color: 红色
+  type: 基地
+  lv: 6
+  cost: 1
+  ap: 0
+  hp: 6
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择友方1张<扎夫特>的机体。本回合中，使其AP+3。'
+  traits:
+  - 扎夫特
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD03-042
+  pack: GD03
+  rarity: U
+  name: 决斗高达 强袭尸装
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 此机体的AP为5或更高期间，此机体可以选择对方活跃状态且等级不高于Lv.5的机体作为攻击对象。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_name
+    values:
+    - 伊扎克·玖尔
+  title_ref: “伊扎克·玖尔”
+  series: 机动战士高达SEED
+- id: GD01-055
+  pack: GD01
+  rarity: U
+  name: 巴库
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 【启动·主要】《支援2》
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-056
+  pack: GD01
+  rarity: C
+  name: 基拉·德卡（带袖的式样）
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【破坏时】选择对方1张AP不高于5的机体。给与其1点伤害。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-057
+  pack: GD01
+  rarity: C
+  name: 德莱森（带袖的式样）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-058
+  pack: GD01
+  rarity: C
+  name: 卡尔斯K
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·瞬动】【每回合1次】①：选择1张等级不低于Lv.4的机体。使其此次攻击中获得AP+1。
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-064
+  pack: GD01
+  rarity: C
+  name: 迪因
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD02-042
+  pack: GD02
+  rarity: U
+  name: 阿斯塔隆高达（MA形态）
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张<新联邦>的机体。本回合中，其获得《高机动》效果。
+  traits:
+  - 新联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 奥尔巴·弗罗斯特
+  title_ref: “奥尔巴·弗罗斯特”
+  series: 机动新世纪高达X
+- id: GD02-048
+  pack: GD02
+  rarity: C
+  name: 扎古III（带袖的式样）
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 4
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 新吉翁
+  title_ref: 特征<新吉翁>
+  series: 机动战士高达UC
+- id: GD02-050
+  pack: GD02
+  rarity: C
+  name: 加佐姆（带袖的式样）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-051
+  pack: GD02
+  rarity: C
+  name: 高达一号机
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD02-052
+  pack: GD02
+  rarity: C
+  name: 钢加农（GQ）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-046
+  pack: GD03
+  rarity: C
+  name: 席古
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST03-003
+  pack: 预组03
+  rarity: C
+  name: 基拉·祖鲁
+  color: 红色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 新吉翁
+  title_ref: 特征<新吉翁>
+  series: 机动战士高达UC
+- id: GD01-062
+  pack: GD01
+  rarity: C
+  name: 古恩
+  color: 红色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST03-005
+  pack: 预组03
+  rarity: C
+  name: 特拉杰（带袖的式样）
+  color: 红色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: true
+    ground: false
+  text: 无
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-044
+  pack: GD02
+  rarity: U
+  name: 多托列斯指挥官用型
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【破坏时】若我方战斗区中存在此机体以外的<新联邦>机体，则配置1张休息状态的“多托列斯”（<新联邦>·AP0·HP1）的机体替代卡。
+  traits:
+  - 新联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD02-126
+  pack: GD02
+  rarity: C
+  name: 修司的藏身处
+  color: 红色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【破坏时】选择对方的1张等级不高于Lv.4的机体。给与其1点伤害。'
+  traits:
+  - 军团
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-128
+  pack: GD03
+  rarity: C
+  name: 多利德亚
+  color: 红色
+  type: 基地
+  lv: 4
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【每回合1次】对方的回合中，当我方的机体因对方的效果而转为休息状态时，选择对方的1张机体。给与其1点伤害。'
+  traits:
+  - 新联邦
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: ST06-014
+  pack: 预组06
+  rarity: C
+  name: 军团战
+  color: 红色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】将此基地转为休息状态：若友方战斗区中存在<军团>的共鸣机体，则选择友方的1张机体。本回合中，使其AP+2。'
+  traits:
+  - 军团
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-093
+  pack: GD01
+  rarity: R
+  name: 玛丽达·库尔斯
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【攻击时】选择对方1张等级不高于此机体等级的机体。给与其1点伤害。'
+  traits:
+  - 新吉翁
+  - 强化人
+  resonance:
+    kind: pilot_name
+    values:
+    - 玛丽达·库尔斯
+  title_ref: “玛丽达·库尔斯”
+  series: 机动战士高达UC
+- id: GD03-092
+  pack: GD03
+  rarity: U
+  name: 尼娅安
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】将我方卡组最上方的1张卡牌，置于我方的废弃区中。若通过此效果放置了<吉翁>/<军团>的卡牌，则选择对方的1张机体。给与其1点伤害。'
+  traits:
+  - 吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 尼娅安
+  title_ref: “尼娅安”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-094
+  pack: GD01
+  rarity: U
+  name: 伊扎克·玖尔
+  color: 红色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【每回合1次】此机体正在攻击期间，当对方的共鸣机体因伤害被破坏时，我方抽取1张卡牌。'
+  traits:
+  - 扎夫特
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 伊扎克·玖尔
+  title_ref: “伊扎克·玖尔”
+  series: 机动战士高达SEED
+- id: GD02-093
+  pack: GD02
+  rarity: C
+  name: 奥尔巴·弗罗斯特
+  color: 红色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    我方回合中，当此机体以战斗伤害破坏对方搭乘<新人类>机师的机体时，我方抓取1张手牌。'
+  traits:
+  - 新联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 奥尔巴·弗罗斯特
+  title_ref: “奥尔巴·弗罗斯特”
+  series: 机动新世纪高达X
+- id: ST08-002
+  pack: 预组08
+  rarity: C
+  name: Ξ高达
+  color: 红色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方的1张机体。给与其1点伤害。
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈萨维·诺亚
+  title_ref: “哈萨维·诺亚”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-052
+  pack: GD01
+  rarity: U
+  name: 基拉·祖鲁（亲卫队机）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方的1张机体。给与其1点伤害。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-053
+  pack: GD01
+  rarity: U
+  name: 基拉·祖鲁（重装型）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】【每回合1次】①：选择对方的1张AP不高于2的机体。给与其1点伤害。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: ST03-002
+  pack: 预组03
+  rarity: C
+  name: 基拉·祖鲁（安杰洛·梭裴专用机）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】《支援2》
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 安杰洛·梭裴
+  title_ref: “安杰洛·梭裴”
+  series: 机动战士高达UC
+- id: ST06-002
+  pack: 预组06
+  rarity: C
+  name: GQuuuuuuX（Ω精神感应启动时）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若我方战斗区有此机体以外的<军团>机体，则选择对方1张机体。给与其1点伤害。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 天手·让叶（玛秋）
+  title_ref: “天手·让叶（玛秋）”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-059
+  pack: GD01
+  rarity: C
+  name: 杰·祖鲁
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 【攻击时】若正在攻击对方玩家，则本次战斗中，此机体的AP+2。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: ST03-015
+  pack: 预组03
+  rarity: C
+  name: 略儒拉号
+  color: 红色
+  type: 基地
+  lv: 3
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    此后，选择对方1张AP不高于5的机体。给与其1点伤害。'
+  traits:
+  - 新吉翁
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: ST06-003
+  pack: 预组06
+  rarity: C
+  name: 里克·大魔 盖亚机（GQ）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】《支援1》
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 盖亚
+  title_ref: “盖亚”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-061
+  pack: GD01
+  rarity: C
+  name: 扎乌特
+  color: 红色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 0
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 【启动·主要】《支援1》
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-128
+  pack: GD01
+  rarity: C
+  name: 资源卫星帛琉
+  color: 红色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 6
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。'
+  traits:
+  - 新吉翁
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-049
+  pack: GD02
+  rarity: C
+  name: 多托列斯
+  color: 红色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】《支援1》
+  traits:
+  - 新联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD02-043
+  pack: GD02
+  rarity: U
+  name: 炮击型多托列斯
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若我方战斗区中存在此机体以外的<新联邦>机体，则配置1张休息状态的“多托列斯”（<新联邦>·AP0·HP1）的机体替代卡。
+  traits:
+  - 新联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD02-092
+  pack: GD02
+  rarity: U
+  name: 夏基亚·弗罗斯特
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【攻击时】选择我方1张<新联邦>的机体。本回合中，使其AP+2。'
+  traits:
+  - 新联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏基亚·弗罗斯特
+  title_ref: “夏基亚·弗罗斯特”
+  series: 机动新世纪高达X
+- id: GD03-093
+  pack: GD03
+  rarity: C
+  name: 卡利斯·罗迪拉斯
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    对方护盾区中不存在基地的期间，此机体的AP+1。'
+  traits:
+  - 宇宙革命军
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡利斯·罗迪拉斯
+  title_ref: “卡利斯·罗迪拉斯”
+  series: 机动新世纪高达X
+- id: ST04-011
+  pack: 预组04
+  rarity: C
+  name: 阿斯兰·萨拉
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】本回合中，此机体可以选择对方活跃状态且等级不高于Lv.5的机体作为攻击对象。'
+  traits:
+  - 扎夫特
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿斯兰·萨拉
+  title_ref: “阿斯兰·萨拉”
+  series: 机动战士高达SEED
+- id: ST08-010
+  pack: 预组08
+  rarity: C
+  name: 哈萨维·诺亚
+  color: 红色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】若此机体为<马夫蒂>，则选择我方1张<马夫蒂>的机体。本回合中，其可以选择对方活跃状态且受到过伤害的机体作为攻击对象。'
+  traits:
+  - 马夫蒂
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈萨维·诺亚
+  title_ref: “哈萨维·诺亚”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD02-041
+  pack: GD02
+  rarity: R
+  name: 格鲁古古 菅井机（GQ）
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 4
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方1张等级不低于Lv.5的机体。给与其2点伤害。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 诗子·菅井
+  title_ref: “诗子·菅井”
+  series: 机动战士高达GQuuuuuuX
+- id: GD02-045
+  pack: GD02
+  rarity: U
+  name: 长程强行侦查复座型基恩
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】若此机体的AP为5或更高，且正在攻击对方的机体，则我方抽取1张卡牌。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD02-107
+  pack: GD02
+  rarity: R
+  name: 全方位攻击
+  color: 红色
+  type: 指令
+  lv: 4
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方的1张机体。给与其1点伤害。
+
+    【主要】给与对方所有共鸣机体以外的机体1点伤害。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD01-047
+  pack: GD01
+  rarity: R
+  name: 尚布罗
+  color: 红色
+  type: 机体
+  lv: 8
+  cost: 7
+  ap: 6
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: 【攻击时】若友方战斗区中存在2张或更多此机体以外的休息状态的机体，则选择对手的1张机体。给与其3点伤害。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 新人类
+    - 强化人
+  title_ref: 特征<新人类>/特征<强化人>
+  series: 机动战士高达UC
+- id: GD01-095
+  pack: GD01
+  rarity: C
+  name: 迪亚哥·艾尔斯曼
+  color: 红色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】弃1张手牌。若如此做，我方抽取1张卡牌。'
+  traits:
+  - 扎夫特
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪亚哥·艾尔斯曼
+  title_ref: “迪亚哥·艾尔斯曼”
+  series: 机动战士高达SEED
+- id: GD03-041
+  pack: GD03
+  rarity: U
+  name: 帕特利亚
+  color: 红色
+  type: 机体
+  lv: 7
+  cost: 6
+  ap: 5
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】给与所有基地3点伤害。
+  traits:
+  - 宇宙革命军
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡利斯·罗迪拉斯
+  title_ref: “卡利斯·罗迪拉斯”
+  series: 机动新世纪高达X
+- id: GD03-043
+  pack: GD03
+  rarity: C
+  name: 梅萨F02型
+  color: 红色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择对方的1张机体。给与其1点伤害。
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_trait
+    values:
+    - 马夫蒂
+  title_ref: 特征<马夫蒂>
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-063
+  pack: GD01
+  rarity: U
+  name: 佐诺
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: true
+  text: 我方的回合中，此机体在和对方等级不高于Lv.2的机体战斗期间，此机体获得《先制攻击》效果。
+  traits:
+  - 扎夫特
+  resonance:
+    kind: pilot_trait
+    values:
+    - 扎夫特
+  title_ref: 特征<扎夫特>
+  series: 机动战士高达SEED
+- id: GD02-125
+  pack: GD02
+  rarity: R
+  name: 格瓦丹
+  color: 红色
+  type: 基地
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若是我方的回合，则可以弃置我方1张红色手牌。若那样做的话，我方抓取1张手牌。'
+  traits:
+  - 新吉翁
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: ST03-004
+  pack: 预组03
+  rarity: C
+  name: 加萨D（带袖的式样）
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】《支援2》
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: ST08-004
+  pack: 预组08
+  rarity: C
+  name: 梅萨F01型
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】若正在攻击对方的机体，则选择对方的1张机体。给与其1点伤害。
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_trait
+    values:
+    - 马夫蒂
+  title_ref: 特征<马夫蒂>
+  series: 机动战士高达 闪光的哈萨维
+- id: GD02-047
+  pack: GD02
+  rarity: C
+  name: 加萨C
+  color: 红色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】将此机体转为休息状态：破坏此机体，并选择对方1张等级不高于Lv.5的机体。给与其1点伤害。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD01-048
+  pack: GD01
+  rarity: R
+  name: 狙击型扎古I
+  color: 红色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 0
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: '【启动·主要】《支援1》
+
+    【配置时】确认我方卡组最上方的1张牌。若其为<吉翁>/<新吉翁>的机体卡牌，则可以将其公开并加入手牌。剩余的卡牌放回到卡组最下方。'
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 吉翁
+  title_ref: 特征<吉翁>
+  series: 机动战士高达UC
+- id: ST08-012
+  pack: 预组08
+  rarity: C
+  name: 致哈萨维的鼓舞
+  color: 红色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择友方的1张共鸣机体。本回合中，使其获得《突破1》效果。
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_name
+    values:
+    - 加乌曼·诺比尔
+  title_ref: “加乌曼·诺比尔”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-112
+  pack: GD01
+  rarity: R
+  name: 冤仇的尽头
+  color: 红色
+  type: 指令/机师
+  lv: 6
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择我方2张活跃状态的机体，将其转为休息状态。若这么做，选择对方的1张机体。给与其3点伤害。
+  traits:
+  - 吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 罗妮·贾维
+  title_ref: “罗妮·贾维”
+  series: 机动战士高达UC
+- id: GD03-109
+  pack: GD03
+  rarity: R
+  name: 战技精进
+  color: 红色
+  type: 指令
+  lv: 3
+  cost: 3
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方1张等级不高于Lv.4的机体。给与其3点伤害。若我方废弃区中2张或更多卡牌名称中包含“战技精进”的卡牌，则改为选择对方的1张机体。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: ST03-013
+  pack: 预组03
+  rarity: C
+  name: 格斗战
+  color: 红色
+  type: 指令
+  lv: 2
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方的1张机体。给与其2点伤害。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-109
+  pack: GD02
+  rarity: C
+  name: 不灭的执念
+  color: 红色
+  type: 指令/机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方的1张机体。给与其1点伤害。
+  traits:
+  - 军团
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 诗子·菅井
+  title_ref: “诗子·菅井”
+  series: 机动战士高达GQuuuuuuX
+- id: ST08-001
+  pack: 预组08
+  rarity: LR
+  name: Ξ高达
+  color: 红色
+  type: 机体
+  lv: 9
+  cost: 8
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '我方战斗区中不存在Lv.6或更高等级的机体期间，对方战斗区中每存在1张机体，则手牌中的此卡牌Lv.-1、费用-1。
+
+    【搭乘时】选择对方1张等级最高的机体。给与其3点伤害。'
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈萨维·诺亚
+  title_ref: “哈萨维·诺亚”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-113
+  pack: GD01
+  rarity: U
+  name: 沙漠之虎
+  color: 红色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张<扎夫特>的机体。本回合中，使其AP+3。
+  traits:
+  - 扎夫特
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 安德鲁·巴尔特菲尔德
+  title_ref: “安德鲁·巴尔特菲尔德”
+  series: 机动战士高达SEED
+- id: GD01-114
+  pack: GD01
+  rarity: C
+  name: 特林顿基地袭击
+  color: 红色
+  type: 指令/机师
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择友方的2张机体。本回合中，使选择的机体AP+1。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 约姆·卡克斯
+  title_ref: “约姆·卡克斯”
+  series: 机动战士高达UC
+- id: GD01-116
+  pack: GD01
+  rarity: C
+  name: 隐秘作战
+  color: 红色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方1张AP不高于2的机体。给与其2点伤害。
+  traits:
+  - 扎夫特
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 尼可·阿玛菲
+  title_ref: “尼可·阿玛菲”
+  series: 机动战士高达SEED
+- id: GD03-111
+  pack: GD03
+  rarity: U
+  name: 现场潜入员
+  color: 红色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张<马夫蒂>的机体。本回合中，使其AP+3。
+  traits:
+  - 马夫蒂
+  resonance:
+    kind: pilot_name
+    values:
+    - 艾美拉尔达·祖宾
+  title_ref: “艾美拉尔达·祖宾”
+  series: 机动战士高达 闪光的哈萨维
+- id: ST03-012
+  pack: 预组03
+  rarity: C
+  name: 激昂
+  color: 红色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方的1张机体。本回合中，使其AP+2。
+  traits:
+  - 新吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 安杰洛·梭裴
+  title_ref: “安杰洛·梭裴”
+  series: 机动战士高达UC
+- id: ST04-014
+  pack: 预组04
+  rarity: C
+  name: 黄昏的魔弹
+  color: 红色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张等级不高于Lv.2的机体。本回合中，使其获得《先制攻击》效果。
+  traits:
+  - 扎夫特
+  - 调整者
+  resonance:
+    kind: pilot_name
+    values:
+    - 米凯尔·艾曼
+  title_ref: “米凯尔·艾曼”
+  series: 机动战士高达SEED
+- id: GD01-111
+  pack: GD01
+  rarity: R
+  name: 王牌的战斗
+  color: 红色
+  type: 指令
+  lv: 3
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方的1张机体。给与其2点伤害。
+
+    【主要】/【瞬动】选择对方的1张已受伤的机体。给与其3点伤害。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-115
+  pack: GD01
+  rarity: U
+  name: 吉翁残党军
+  color: 红色
+  type: 指令
+  lv: 2
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方的1张机体。给与其1点伤害。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-108
+  pack: GD02
+  rarity: U
+  name: 对方似乎更强？
+  color: 红色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择友方1张<军团>的机体。本回合中，其可以选择对方等级不高于Lv.4的活跃状态的机体作为攻击对象。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-110
+  pack: GD03
+  rarity: U
+  name: 排除目标
+  color: 红色
+  type: 指令
+  lv: 6
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方1张搭乘等级不高于Lv.5的机体的机师。将其破坏。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD03-112
+  pack: GD03
+  rarity: C
+  name: 扭曲之念
+  color: 红色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【主要】/【瞬动】本回合中，所有被机师搭乘的机体AP+2。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST08-013
+  pack: 预组08
+  rarity: C
+  name: 幸运女神
+  color: 红色
+  type: 指令
+  lv: 5
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方的1张机体。给与其1点伤害。若友方战斗区中存在<马夫蒂>的共鸣机体，则改为给与其2点伤害。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: GD03-113
+  pack: GD03
+  rarity: C
+  name: 人类的业果
+  color: 红色
+  type: 指令
+  lv: 3
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张活跃状态的机体。将其转为休息状态。若那样做的话，选择对方1张Lv.不高于因此效果休息的机体等级的机体。给与其3点伤害。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD02-010
+  pack: GD02
+  rarity: U
+  name: 强夺高达
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【每回合1次】当此机体受到对方的效果伤害时，我方抓取1张手牌。
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 生体CPU
+  title_ref: 特征<生体CPU>
+  series: 机动战士高达SEED
+- id: GD01-006
+  pack: GD01
+  rarity: R
+  name: 德尔塔PLUS
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 《修复1》【共鸣中】此机体的HP+1。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联邦
+  title_ref: 特征<地球联邦>
+  series: 机动战士高达UC
+- id: GD02-013
+  pack: GD02
+  rarity: C
+  name: 高扎古
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 提坦斯
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD02-121
+  pack: GD02
+  rarity: U
+  name: 主天使号
+  color: 蓝色
+  type: 基地
+  lv: 4
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择友方的1张蓝色机体。使其回复2点。'
+  traits:
+  - 地球联合
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST01-005
+  pack: 预组01
+  rarity: C
+  name: 吉姆
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: ST08-015
+  pack: 预组08
+  rarity: C
+  name: 达沃
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】【每回合1次】②：选择我方的1张机体。使其回复2点。'
+  traits:
+  - 地球联邦
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: GD02-015
+  pack: GD02
+  rarity: C
+  name: 马拉赛
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 提坦斯
+  title_ref: 特征<提坦斯>
+  series: 机动战士高达Z
+- id: GD02-018
+  pack: GD02
+  rarity: C
+  name: 杜拉士
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 此机体无法选择对方玩家作为攻击对象。
+  traits:
+  - OZ
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-012
+  pack: GD03
+  rarity: C
+  name: 梅萨拉（MA形态）
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 《修复1》
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 朱庇特利斯
+  title_ref: 特征<朱庇特利斯>
+  series: 机动战士高达Z
+- id: ST01-003
+  pack: 预组01
+  rarity: C
+  name: 钢加农
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  - WB小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 凯·西汀
+  title_ref: “凯·西汀”
+  series: 机动战士高达
+- id: GD02-009
+  pack: GD02
+  rarity: U
+  name: 灾厄高达
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 3
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【每回合1次】当此机体的AP因对方效果减少时，选择对方1张休息状态的机体。给与其2点伤害。
+  traits:
+  - 地球联合
+  resonance:
+    kind: pilot_trait
+    values:
+    - 生体CPU
+  title_ref: 特征<生体CPU>
+  series: 机动战士高达SEED
+- id: GD03-009
+  pack: GD03
+  rarity: U
+  name: 帕拉斯·雅典娜
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】可以选择我方废弃区中2张<提坦斯>的卡牌。将选择的卡牌从游戏中移除。若那样做的话，则选择对方1张等级不高于Lv.4的机体。将其转为休息状态。
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 蕾柯亚·朗特
+  title_ref: “蕾柯亚·朗特”
+  series: 机动战士高达Z
+- id: GD01-008
+  pack: GD01
+  rarity: U
+  name: 钢坦克
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方1张休息状态的机体。给与其1点伤害。
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: ST01-010
+  pack: 预组01
+  rarity: C
+  name: 阿姆罗·雷
+  color: 蓝色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: '2'
+  hp: '1'
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】选择对方1张HP不高于5的机体。使其转为休息状态。'
+  traits:
+  - 地球联邦
+  - WB小队
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿姆罗·雷
+  title_ref: “阿姆罗·雷”
+  series: 机动战士高达
+- id: GD01-010
+  pack: GD01
+  rarity: R
+  name: '独角兽高达2号机报丧女妖
+
+    （独角兽模式）'
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择对方1张HP不高于3的机体。将其转为休息状态。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_trait
+    values:
+    - 强化人
+  title_ref: 特征<强化人>
+  series: 机动战士高达UC
+- id: GD02-005
+  pack: GD02
+  rarity: R
+  name: 多鲁基斯
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【攻击时】选择对方1张HP不高于2的机体。将其转为休息状态。
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_trait
+    values:
+    - OZ
+  title_ref: 特征<OZ>
+  series: 新机动战记高达W
+- id: ST08-008
+  pack: 预组08
+  rarity: C
+  name: 古斯塔夫·卡尔00型
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 对方战斗区中存在3张或更多机体的期间，此机体获得《阻挡者》效果。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: GD02-004
+  pack: GD02
+  rarity: R
+  name: 拜亚兰
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择对方1张HP不高于3的休息状态的机体。其在对方下个回合的起始阶段无法转为活跃状态。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰里德·梅萨
+  title_ref: “杰里德·梅萨”
+  series: 机动战士高达Z
+- id: ST02-009
+  pack: 预组02
+  rarity: C
+  name: 特拉哥斯
+  color: 蓝色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - OZ
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD01-124
+  pack: GD01
+  rarity: C
+  name: Side 7
+  color: 蓝色
+  type: 基地
+  lv: 1
+  cost: 1
+  ap: 0
+  hp: 4
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】将此基地转为休息状态：选择友方的1张机体。使其回复1点。'
+  traits:
+  - 地球联邦
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD01-002
+  pack: GD01
+  rarity: LR
+  name: 独角兽高达（毁灭模式）
+  color: 蓝色
+  type: 机体
+  lv: 7
+  cost: 6
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '当将要使用手牌中的此牌时，可以破坏我方1张卡牌名称中包含“独角兽模式”的Lv.5共鸣机体。若那样做的话，则将此卡牌的Lv.和费用视为0使用。
+
+    【攻击时】选择对方的1张机体。使其转为休息状态。'
+  traits:
+  - 民间
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳吉·林克斯
+  title_ref: “巴纳吉·林克斯”
+  series: 机动战士高达UC
+- id: GD01-017
+  pack: GD01
+  rarity: C
+  name: 强袭杰刚
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 3
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 《修复1》
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联邦
+  title_ref: 特征<地球联邦>
+  series: 机动战士高达UC
+- id: GD02-008
+  pack: GD02
+  rarity: U
+  name: 卡普斯利
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】选择对方1张休息状态的机体。给与其1点伤害。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 提坦斯
+  title_ref: 特征<提坦斯>
+  series: 机动战士高达Z
+- id: GD01-009
+  pack: GD01
+  rarity: U
+  name: G战机
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张<WB队>的机体。本回合中，其获得《高机动》效果。
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: pilot_trait
+    values:
+    - WB队
+  title_ref: 特征<WB队>
+  series: 机动战士高达
+- id: GD01-012
+  pack: GD01
+  rarity: U
+  name: 里奥（杰克斯机）
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时】选择对方1张HP不高于3的机体。将其转为休息状态。
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_trait
+    values:
+    - OZ
+  title_ref: 特征<OZ>
+  series: 新机动战记高达W
+- id: GD01-016
+  pack: GD01
+  rarity: C
+  name: 杰刚
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区存在2张或更多<地球联邦>的机体期间，手牌中的此卡牌费用-1。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-022
+  pack: GD01
+  rarity: C
+  name: 坎撒
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - OZ
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD02-016
+  pack: GD02
+  rarity: C
+  name: 巴扎姆
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张<提坦斯>的机体。本回合中，使其AP+1。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD03-007
+  pack: GD03
+  rarity: U
+  name: 全装甲高达NT-1
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【破坏时】选择对方1张HP不高于3的机体。将其转为休息状态。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 克里斯汀娜·玛肯吉
+  title_ref: “克里斯汀娜·玛肯吉”
+  series: 机动战士高达0080口袋里的战争
+- id: GD03-011
+  pack: GD03
+  rarity: C
+  name: 狙击型吉姆II
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达0080口袋里的战争
+- id: GD03-013
+  pack: GD03
+  rarity: C
+  name: 高扎古
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在此机体以外的<朱庇特利斯>机体期间，此机体的AP+1，并获得《修复1》效果。
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD03-014
+  pack: GD03
+  rarity: C
+  name: 高扎古改装型
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在2张或更多<提坦斯>机体的期间，手牌中的此卡牌费用-1。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: ST01-004
+  pack: 预组01
+  rarity: C
+  name: 钢坦克
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方1张HP不高于2的机体。将其转为休息状态。
+  traits:
+  - 地球联邦
+  - WB小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 隼人·小林
+  title_ref: “隼人·小林”
+  series: 机动战士高达
+- id: GD01-021
+  pack: GD01
+  rarity: C
+  name: 派西斯
+  color: 蓝色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - OZ
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-006
+  pack: GD03
+  rarity: R
+  name: 佩涅罗佩（中间形态）
+  color: 蓝色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择对方1~2张HP不高于3的机体。将选择的机体转为休息状态。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 雷恩·艾姆
+  title_ref: “雷恩·艾姆”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD03-004
+  pack: GD03
+  rarity: R
+  name: 汉布拉比
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 5
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】若我方战斗区中存在2张或更多此机体以外的<提坦斯>机体，则选择对方1张HP不高于5的机体。将其转为休息状态。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 亚赞·盖布尔
+  title_ref: “亚赞·盖布尔”
+  series: 机动战士高达Z
+- id: ST02-006
+  pack: 预组02
+  rarity: LR
+  name: 多鲁基斯
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】【每回合1次】④：将此机体转为活跃状态。
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰克斯·马吉斯
+  title_ref: “杰克斯·马吉斯”
+  series: 新机动战记高达W
+- id: GD03-123
+  pack: GD03
+  rarity: C
+  name: 朱庇特利斯
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若友方战斗区中存在<朱庇特利斯>的机体，则选择对方1张等级不高于Lv.3的机体。将其转为休息状态。'
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD03-124
+  pack: GD03
+  rarity: C
+  name: 利博殖民地
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【每回合1次】当我方的机体被等级不高于Lv.3的机师搭乘时，选择对方1张HP不高于3的机体。将其转为休息状态。'
+  traits:
+  - 地球联邦
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达0080口袋里的战争
+- id: GD03-101
+  pack: GD03
+  rarity: R
+  name: 旺盛的好奇心
+  color: 蓝色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】我方抽取1张卡牌。此后，若我方废弃区中有2张或更多卡牌名称中包含“旺盛的好奇心”的卡牌，则选择对方1张HP不高于4的机体。将其转为休息状态。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达0080口袋里的战争
+- id: GD01-007
+  pack: GD01
+  rarity: R
+  name: 艾亚里斯（诺茵机）
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 3
+  ap: 2
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 【破坏时】若我方战斗区中存在此机体以外的<OZ>机体，则我方抽取1张卡牌。
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_name
+    values:
+    - 路克蕾琪亚·诺茵
+  title_ref: “路克蕾琪亚·诺茵”
+  series: 新机动战记高达W
+- id: GD02-087
+  pack: GD02
+  rarity: C
+  name: 奥尔加&克罗特&夏尼
+  color: 蓝色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】若此机体为蓝色，则选择对方1张拥有《阻挡者》效果的机体。将其转为休息状态。'
+  traits:
+  - 地球联合
+  - 生体CPU
+  resonance:
+    kind: pilot_name
+    values:
+    - 奥尔加
+    - 科洛特
+    - 夏尼
+  title_ref: '“奥尔加”/
+
+    “科洛特”/
+
+    “夏尼”'
+  series: 机动战士高达SEED
+- id: ST01-015
+  pack: 预组01
+  rarity: C
+  name: 白色基地
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 2
+  ap: 0
+  hp: '5'
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】【每回合1次】②：若我方战斗区中不存在机体，则配置1张“高达”（<WB队>·AP3·HP3）的机体替代卡；若只存在1张，则配置1张“钢加农”（<WB队>·AP2·HP2）的机体替代卡；若存在2张或更多，则配置1张“钢坦克”（<WB队>·AP1·HP1）的机体替代卡。'
+  traits:
+  - 地球联邦
+  - WB小队
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD03-015
+  pack: GD03
+  rarity: C
+  name: 猎犬
+  color: 蓝色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】【每回合1次】将我方废弃区中3张<提坦斯>的卡牌从游戏中移除：本回合中，此机体获得《突破4》效果。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰里德·梅萨
+  title_ref: “杰里德·梅萨”
+  series: 机动战士高达Z
+- id: ST02-008
+  pack: 预组02
+  rarity: C
+  name: 艾亚里斯
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - OZ
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD02-003
+  pack: GD02
+  rarity: R
+  name: 高达Mk-II（提坦斯式样）
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中·等级不高于Lv.3的机师】【破坏时】可以丢弃我方手牌中的1张机体卡牌。若那样做的话，则将搭乘此机体的卡牌放回到手牌中。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_trait
+    values:
+    - 提坦斯
+  title_ref: 特征<提坦斯>
+  series: 机动战士高达Z
+- id: GD01-100
+  pack: GD01
+  rarity: U
+  name: 觉悟的表露
+  color: 蓝色
+  type: 指令
+  lv: 4
+  cost: 3
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】我方抽取2张卡牌。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD01-011
+  pack: GD01
+  rarity: U
+  name: 洛特
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联邦
+  title_ref: 特征<地球联邦>
+  series: 机动战士高达UC
+- id: GD01-014
+  pack: GD01
+  rarity: C
+  name: G飞行器简易型
+  color: 蓝色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 1
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【启动·瞬动】【每回合1次】选择1张机体。使其回复1点。
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: pilot_trait
+    values:
+    - WB队
+  title_ref: 特征<WB队>
+  series: 机动战士高达
+- id: GD02-012
+  pack: GD02
+  rarity: C
+  name: 核心推进器
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  - WB队
+  resonance:
+    kind: pilot_trait
+    values:
+    - WB队
+  title_ref: 特征<WB队>
+  series: 机动战士高达
+- id: GD02-014
+  pack: GD02
+  rarity: C
+  name: 加尔波第β
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张<提坦斯>的机体。本回合中，使其AP+1。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD02-100
+  pack: GD02
+  rarity: R
+  name: 逆转的一手
+  color: 蓝色
+  type: 指令
+  lv: 5
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】我方抽取1张卡牌。
+
+    【主要】选择友方1张受到过伤害的机体。使其回复2点。此后，我方抽取1张卡牌。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: ST02-007
+  pack: 预组02
+  rarity: C
+  name: 里奥
+  color: 蓝色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_trait
+    values:
+    - OZ
+  title_ref: 特征<OZ>
+  series: 新机动战记高达W
+- id: GD01-015
+  pack: GD01
+  rarity: C
+  name: 铁球
+  color: 蓝色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: true
+    ground: false
+  text: 【攻击时】选择我方的1张机体。使其回复1点。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD01-087
+  pack: GD01
+  rarity: R
+  name: 塞拉·玛斯
+  color: 蓝色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    此机体为蓝色的期间，此机体获得《修复1》效果。'
+  traits:
+  - 地球联邦
+  - WB队
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 塞拉·玛斯
+  title_ref: “塞拉·玛斯”
+  series: 机动战士高达
+- id: GD03-086
+  pack: GD03
+  rarity: C
+  name: 亚赞·盖布尔
+  color: 蓝色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】选择我方1张等级不高于此机体Lv.数值的<提坦斯>机体。本回合中，使其AP+1。'
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 亚赞·盖布尔
+  title_ref: “亚赞·盖布尔”
+  series: 机动战士高达Z
+- id: ST08-011
+  pack: 预组08
+  rarity: C
+  name: 雷恩·艾姆
+  color: 蓝色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    当我方通过效果抽取卡牌时，若此机体为蓝色，则本回合中，此机体获得《高机动》效果。'
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 雷恩·艾姆
+  title_ref: “雷恩·艾姆”
+  series: 机动战士高达 闪光的哈萨维
+- id: ST08-006
+  pack: 预组08
+  rarity: LR
+  name: 佩涅罗佩
+  color: 蓝色
+  type: 机体
+  lv: 7
+  cost: 6
+  ap: 5
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】【攻击时】【每回合1次】若正在攻击对方玩家，则公开我方手牌中1张<地球联邦>的机体卡牌。放回到卡组最下方。若那样做的话，则我方抽取2张卡牌。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 雷恩·艾姆
+  title_ref: “雷恩·艾姆”
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-005
+  pack: GD01
+  rarity: R
+  name: 独角兽高达（独角兽模式）
+  color: 蓝色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【破坏时】将搭乘此机体的机师放回到其持有者的手牌中。此后，丢弃我方的1张手牌。
+  traits:
+  - 民间
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳吉·林克斯
+  title_ref: “巴纳吉·林克斯”
+  series: 机动战士高达UC
+- id: ST08-009
+  pack: 预组08
+  rarity: C
+  name: 陆战型杰刚A型 猎人式样
+  color: 蓝色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】选择对方1张休息状态且等级不高于Lv.2的机体。其在下个对方回合的起始阶段中无法转为活跃状态。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-123
+  pack: GD01
+  rarity: U
+  name: 拟·阿卡马
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择对方1张HP不高于3的机体。将其转为休息状态。'
+  traits:
+  - 地球联邦
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达UC
+- id: GD02-122
+  pack: GD02
+  rarity: C
+  name: 亚历山大号
+  color: 蓝色
+  type: 基地
+  lv: 3
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择对方1张等级不高于Lv.4的休息状态的机体。给与其1点伤害。'
+  traits:
+  - 提坦斯
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD01-089
+  pack: GD01
+  rarity: C
+  name: 利迪·马瑟纳斯
+  color: 蓝色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    此机体拥有《修复》效果的期间，此机体AP+1。'
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 利迪·马瑟纳斯
+  title_ref: “利迪·马瑟纳斯”
+  series: 机动战士高达UC
+- id: GD02-086
+  pack: GD02
+  rarity: U
+  name: 杰里德·梅萨
+  color: 蓝色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    我方战斗区中存在此机体以外的<提坦斯>机体期间，此机体AP+1。'
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰里德·梅萨
+  title_ref: “杰里德·梅萨”
+  series: 机动战士高达Z
+- id: GD03-085
+  pack: GD03
+  rarity: U
+  name: 克里斯汀娜·玛肯吉
+  color: 蓝色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    当将要使用手牌中的此卡牌搭乘卡牌名称中包含“高达NT-1”的机体时，将此卡牌的费用视为0使用。'
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 克里斯汀娜·玛肯吉
+  title_ref: “克里斯汀娜·玛肯吉”
+  series: 机动战士高达0080口袋里的战争
+- id: GD03-087
+  pack: GD03
+  rarity: C
+  name: 萨拉·扎比亚洛夫
+  color: 蓝色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】选择对方1张等级不高于Lv.3的机体。将其转为休息状态。'
+  traits:
+  - 提坦斯
+  - 朱庇特利斯
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 萨拉·扎比亚洛夫
+  title_ref: “萨拉·扎比亚洛夫”
+  series: 机动战士高达Z
+- id: GD02-002
+  pack: GD02
+  rarity: LR
+  name: 艾比安高达
+  color: 蓝色
+  type: 机体
+  lv: 8
+  cost: 7
+  ap: 6
+  hp: 6
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】【每回合1次】我方的回合中，当我方机体通过战斗伤害破坏对方的机体时，将此机体转为活跃状态。
+  traits:
+  - 白色獠牙
+  resonance:
+    kind: pilot_name
+    values:
+    - 杰克斯·马吉斯
+  title_ref: “杰克斯·马吉斯”
+  series: 新机动战记高达W
+- id: GD01-101
+  pack: GD01
+  rarity: R
+  name: 深厚的爱情
+  color: 蓝色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方的1张共鸣机体。使其回复3点。
+  traits:
+  - OZ
+  resonance:
+    kind: pilot_name
+    values:
+    - 路克蕾琪亚·诺茵
+  title_ref: “路克蕾琪亚·诺茵”
+  series: 新机动战记高达W
+- id: GD02-011
+  pack: GD02
+  rarity: U
+  name: 梅比乌斯（和平创造者部队）
+  color: 蓝色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 1
+  terrain:
+    space: true
+    ground: false
+  text: 【启动·瞬动】破坏此机体：给与对方1张与此机体进行战斗的基地/护盾6点伤害。
+  traits:
+  - 地球联合
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达SEED
+- id: GD01-103
+  pack: GD01
+  rarity: C
+  name: 齿轮的倔强
+  color: 蓝色
+  type: 指令/机师
+  lv: 1
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择友方1张处于活跃状态的〈地球联邦〉的机体和对方1张机体。将其转为休息状态。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 塔克萨·马克尔
+  title_ref: “塔克萨·马克尔”
+  series: 机动战士高达UC
+- id: GD02-102
+  pack: GD02
+  rarity: C
+  name: 玛瓦的信念
+  color: 蓝色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张<提坦斯>的机体。本回合中，使其AP+2。
+  traits:
+  - 提坦斯
+  resonance:
+    kind: pilot_name
+    values:
+    - 玛瓦·法拉奥
+  title_ref: “玛瓦·法拉奥”
+  series: 机动战士高达Z
+- id: GD03-104
+  pack: GD03
+  rarity: U
+  name: 蕾柯亚的气息
+  color: 蓝色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方1张HP不高于3的机体。将其转为休息状态。若友方战斗区中存在<朱庇特利斯>的共鸣机体，则改为选择对方1~2张HP不高于3的机体。
+  traits: []
+  resonance:
+    kind: pilot_name
+    values:
+    - 蕾柯亚·朗特
+  title_ref: “蕾柯亚·朗特”
+  series: 机动战士高达Z
+- id: ST01-012
+  pack: 预组01
+  rarity: C
+  name: 满身疮痍
+  color: 蓝色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择对方1张休息状态的机体。给与其1点伤害。
+  traits:
+  - 地球联邦
+  - WB小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 隼人·小林
+  title_ref: “隼人·小林”
+  series: 机动战士高达
+- id: ST01-013
+  pack: 预组01
+  rarity: C
+  name: 凯的决心
+  color: 蓝色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择友方的1张机体。使其回复3点。
+  traits:
+  - 地球联邦
+  - WB小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 凯·西汀
+  title_ref: “凯·西汀”
+  series: 机动战士高达
+- id: GD01-099
+  pack: GD01
+  rarity: R
+  name: 迎击命令
+  color: 蓝色
+  type: 指令
+  lv: 4
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方1张HP不高于5的机体。将其转为休息状态。
+
+    【主要】/【瞬动】选择对方1~2张HP不高于3的机体。将选择的机体转为休息状态。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD02-101
+  pack: GD02
+  rarity: U
+  name: 假面之下
+  color: 蓝色
+  type: 指令
+  lv: 1
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择对方1~2张等级不高于Lv.2的机体。将选择的机体转为休息状态。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-103
+  pack: GD03
+  rarity: U
+  name: 部队指令
+  color: 蓝色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方1张HP不高于2的机体。将其转为休息状态。
+
+    【主要】若对方战斗区中存在3张或更多机体，则选择对方1张休息状态的机体。给与其2点伤害。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: ST02-014
+  pack: 预组02
+  rarity: C
+  name: 包围战术
+  color: 蓝色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方1张HP不高于5的机体。将其转为休息状态。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: ST02-014
+  pack: 预组08
+  rarity: C
+  name: 包围战术
+  color: 蓝色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【主要】效果。
+
+    【主要】/【瞬动】选择对方1张HP不高于5的机体。将其转为休息状态。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 闪光的哈萨维
+- id: GD01-102
+  pack: GD01
+  rarity: U
+  name: 确保补给线
+  color: 蓝色
+  type: 指令
+  lv: 4
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】友方所有等级不高于4的机体恢复2HP。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD01-104
+  pack: GD01
+  rarity: C
+  name: 革命的迹象
+  color: 蓝色
+  type: 指令
+  lv: 3
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】我方抽取1张卡牌。
+
+    【主要】选择对方1张休息状态的机体。给与其2点伤害。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-102
+  pack: GD03
+  rarity: C
+  name: 特权阶级
+  color: 蓝色
+  type: 指令
+  lv: 6
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】我方抽取1张卡牌。
+
+    【瞬动】选择我方1张与对方机体进行战斗的<提坦斯>共鸣机体。将其转为活跃状态。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达Z
+- id: GD01-028
+  pack: GD01
+  rarity: R
+  name: 沙漠高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】可以配置我方手牌中1张<马格亚那克队>的机体卡牌。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡特尔·拉巴伯·温拿
+  title_ref: “卡特尔·拉巴伯·温拿”
+  series: 新机动战记高达W
+- id: GD03-022
+  pack: GD03
+  rarity: R
+  name: 主天使高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与对方所有等级不高于Lv.3的机体1点伤害。
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿雷路亚·帕普蒂兹姆
+    - 哈雷路亚·帕普蒂兹姆
+  title_ref: '“阿雷路亚·帕普蒂兹姆”/
+
+    “哈雷路亚·帕普蒂兹姆”'
+  series: 机动战士高达OO
+- id: GD01-041
+  pack: GD01
+  rarity: C
+  name: 神龙高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 《突破3》
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 张五飞
+  title_ref: “张五飞”
+  series: 新机动战记高达W
+- id: GD02-024
+  pack: GD02
+  rarity: R
+  name: 红色高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣中】此机体获得《高机动》效果。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_trait
+    values:
+    - 军团
+  title_ref: 特征<军团>
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-035
+  pack: GD01
+  rarity: C
+  name: 扎古II
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD03-032
+  pack: GD03
+  rarity: C
+  name: 扎古 四眼蛇规格（雪怪）（GQ）
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 军团
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: ST03-008
+  pack: 预组03
+  rarity: C
+  name: 扎古II
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】本回合中，此机体的AP+2。
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: ST06-012
+  pack: 预组06
+  rarity: C
+  name: 女高中生和搬运工
+  color: 绿色
+  type: 指令
+  lv: 1
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】确认我方卡组最上方的3张卡牌，可以公开其中1张〈军团〉的机体卡牌/机师卡牌并加入手牌。剩余的卡牌随机放回到卡组最下方。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: ST07-014
+  pack: 预组07
+  rarity: C
+  name: 战术预报员
+  color: 绿色
+  type: 指令
+  lv: 1
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】确认我方卡组最上方的3张卡牌，可以公开其中1张〈CB〉的机体卡牌/机师卡牌并加入手牌。剩余的卡牌随机放回到卡组最下方。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO
+- id: GD02-028
+  pack: GD02
+  rarity: C
+  name: 马格亚那克（亚布多尔机）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 马格亚那克队
+  resonance:
+    kind: pilot_trait
+    values:
+    - 马格亚那克队
+  title_ref: 特征<马格亚那克队>
+  series: 新机动战记高达W
+- id: GD02-029
+  pack: GD02
+  rarity: C
+  name: 高达AGE-1 标准型
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_trait
+    values:
+    - 明日野家
+  title_ref: 特征<明日野家>
+  series: 机动战士高达AGE
+- id: GD02-031
+  pack: GD02
+  rarity: C
+  name: 高达AGE-1 勇将型
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 2
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 我方为Lv.7或更高等级的期间，此机体的AP+2。
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_name
+    values:
+    - 菲利特·明日野
+  title_ref: “菲利特·明日野”
+  series: 机动战士高达AGE
+- id: GD02-032
+  pack: GD02
+  rarity: C
+  name: 白色高达
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏亚·阿兹纳布尔
+  title_ref: “夏亚·阿兹纳布尔”
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-027
+  pack: GD03
+  rarity: C
+  name: 魔蟹E
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_trait
+    values:
+    - 独眼巨人队
+  title_ref: 特征<独眼巨人队>
+  series: 机动战士高达0080口袋里的战争
+- id: ST06-008
+  pack: 预组06
+  rarity: C
+  name: 格鲁古古 菅井机（GQ）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_trait
+    values:
+    - 军团
+  title_ref: 特征<军团>
+  series: 机动战士高达GQuuuuuuX
+- id: ST07-006
+  pack: 预组07
+  rarity: C
+  name: 力天使高达
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 洛克昂·史特拉托斯
+  title_ref: “洛克昂·史特拉托斯”
+  series: 机动战士高达OO
+- id: GD01-106
+  pack: GD01
+  rarity: R
+  name: 要塞防卫战
+  color: 绿色
+  type: 指令/机师
+  lv: 5
+  cost: 2
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】配置2张“扎古II”（<吉翁>·AP1·HP1）的机体替代卡。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 多兹鲁·扎比
+  title_ref: “多兹鲁·扎比”
+  series: 机动战士高达
+- id: ST03-009
+  pack: 预组03
+  rarity: C
+  name: 老虎
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 3
+  ap: 2
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】配置1张休息状态的“扎古II”（<吉翁>·AP1·HP1）的机体替代卡。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 兰巴·拉尔
+  title_ref: “兰巴·拉尔”
+  series: 机动战士高达
+- id: GD03-106
+  pack: GD03
+  rarity: U
+  name: M.A.V.战术
+  color: 绿色
+  type: 指令
+  lv: 6
+  cost: 4
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】配置1张休息状态的“GQuuuuuuX（Ω精神感应启动时）”（<军团>·AP3·HP2）的机体替代卡，和1张休息状态的“红色高达”（<军团>·AP2·HP3）的机体替代卡。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-024
+  pack: GD03
+  rarity: U
+  name: 高战蟹
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】若我方战斗区中存在此机体以外的 <独眼巨人队>机体，则配置1张休息状态的“高战蟹”（<独眼巨人队>·AP2·HP1）的机体替代卡。
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_trait
+    values:
+    - 独眼巨人队
+  title_ref: 特征<独眼巨人队>
+  series: 机动战士高达0080口袋里的战争
+- id: GD02-022
+  pack: GD02
+  rarity: R
+  name: G-EXES
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【每回合1次】当我方放置EX能源时，选择我方1张<AGE系统>的机体。本回合中，使其获得《突破2》效果。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 沃尔夫·艾尼阿克尔
+  title_ref: “沃尔夫·艾尼阿克尔”
+  series: 机动战士高达AGE
+- id: GD02-035
+  pack: GD02
+  rarity: C
+  name: 军警扎古 特殊部队规格
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 此机体无法选择对方玩家作为攻击对象。
+  traits:
+  - SIDE6
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-090
+  pack: GD03
+  rarity: C
+  name: 米海尔·卡明斯基
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】选择我方1张<独眼巨人队>的机体。本回合中，使其获得《突破1》效果。'
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_name
+    values:
+    - 米海尔·卡明斯基
+  title_ref: “米海尔·卡明斯基”
+  series: 机动战士高达0080口袋里的战争
+- id: GD01-091
+  pack: GD01
+  rarity: U
+  name: 张五飞
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    我方的回合中，此机体拥有《突破》效果的期间，此机体不会受到来自对方AP不高于3的机体的战斗伤害。'
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 张五飞
+  title_ref: “张五飞”
+  series: 新机动战记高达W
+- id: GD03-023
+  pack: GD03
+  rarity: R
+  name: G-巨人
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【每回合1次】当我方放置EX能源时，选择我方1张<AGE系统>的机体。本回合中，使其获得《高机动》效果。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_trait
+    values:
+    - 地球联邦
+  title_ref: 特征<地球联邦>
+  series: 机动战士高达AGE
+- id: GD02-025
+  pack: GD02
+  rarity: U
+  name: 重装高达
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】确认我方卡组最上方的1张卡牌，将其放回到卡组最上方或最下方。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_trait
+    values:
+    - 流星作战
+  title_ref: 特征<流星作战>
+  series: 新机动战记高达W
+- id: GD03-030
+  pack: GD03
+  rarity: C
+  name: 主天使高达（尾部套件）（飞行形态）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在<CB>共鸣机体的期间，手牌中的此卡牌费用-1。
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿雷路亚·帕普蒂兹姆
+    - 哈雷路亚·帕普蒂兹姆
+  title_ref: '“阿雷路亚·帕普蒂兹姆”/
+
+    “哈雷路亚·帕普蒂兹姆”'
+  series: 机动战士高达OO
+- id: ST02-003
+  pack: 预组02
+  rarity: C
+  name: 重装高达
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与对方所有等级不高于Lv.3的机体1点伤害。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 特罗瓦·巴顿
+  title_ref: “特罗瓦·巴顿”
+  series: 新机动战记高达W
+- id: GD01-036
+  pack: GD01
+  rarity: C
+  name: 老虎
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD01-037
+  pack: GD01
+  rarity: C
+  name: 战蟹
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD01-043
+  pack: GD01
+  rarity: C
+  name: 马格亚那克（拉席德机）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方的1张绿色机体。本回合中，它可以选择AP不高于4的对方机体为攻击目标。
+  traits:
+  - 马格亚那克队
+  resonance:
+    kind: pilot_trait
+    values:
+    - 马格亚那克队
+  title_ref: 特征<马格亚那克队>
+  series: 新机动战记高达W
+- id: GD03-028
+  pack: GD03
+  rarity: C
+  name: 马格亚那克（奥达机）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】若正在攻击对方的机体，则本次战斗中，此机体的AP+2。
+  traits:
+  - 马格亚那克队
+  resonance:
+    kind: pilot_trait
+    values:
+    - 马格亚那克队
+  title_ref: 特征<马格亚那克队>
+  series: 新机动战记高达W
+- id: ST02-005
+  pack: 预组02
+  rarity: C
+  name: 马格亚那克
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 马格亚那克队
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: ST06-007
+  pack: 预组06
+  rarity: C
+  name: 里克·大魔 奥尔迪加机（GQ）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张此机体以外的<军团>机体。本回合中，其可以选择对方活跃状态且AP不高于3的机体为攻击对象。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 奥尔迪加（GQ）
+  title_ref: “奥尔迪加（GQ）”
+  series: 机动战士高达GQuuuuuuX
+- id: ST07-007
+  pack: 预组07
+  rarity: C
+  name: 主天使高达
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 我方的回合中，我方战斗区中存在<CB>机师的期间，此机体的AP+2。
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿雷路亚·帕普蒂兹姆
+    - 哈雷路亚·帕普蒂兹姆
+  title_ref: '“阿雷路亚·帕普蒂兹姆”/
+
+    “哈雷路亚·帕普蒂兹姆”'
+  series: 机动战士高达OO
+- id: GD02-030
+  pack: GD02
+  rarity: C
+  name: 杰诺亚斯
+  color: 绿色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 地球联邦
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: GD02-034
+  pack: GD02
+  rarity: C
+  name: GQuuuuuuX
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中·红色的机师】此机体获得AP+2。
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-108
+  pack: GD03
+  rarity: C
+  name: 离战场还有几英里？
+  color: 绿色
+  type: 指令
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】配置1张“高战蟹”（<独眼巨人队>·AP2·HP1）的机体替代卡。
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_name
+    values:
+    - 加布里埃尔·拉米雷斯·加尔西亚
+  title_ref: “加布里埃尔·拉米雷斯·加尔西亚”
+  series: 机动战士高达0080口袋里的战争
+- id: ST03-007
+  pack: 预组03
+  rarity: C
+  name: 扎古I
+  color: 绿色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD03-019
+  pack: GD03
+  rarity: LR
+  name: 高达AGE-2 标准型
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '【搭乘中】当对方的机体攻击时，尽可能选择休息状态的此机体作为攻击对象。
+
+    【共鸣时】我方放置1张EX能源。'
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_name
+    values:
+    - 亚瑟姆·明日野
+  title_ref: “亚瑟姆·明日野”
+  series: 机动战士高达AGE
+- id: GD02-124
+  pack: GD02
+  rarity: C
+  name: 歌姬号
+  color: 绿色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。我方回合中，我方的等级不低于Lv.7期间，所有友方绿色<地球联邦>的机体AP+1。'
+  traits:
+  - 地球联邦
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: GD03-125
+  pack: GD03
+  rarity: U
+  name: 万年和平号
+  color: 绿色
+  type: 基地
+  lv: 6
+  cost: 1
+  ap: 0
+  hp: 6
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【每回合1次】我方的回合中，当友方战斗区中Lv.6或更高等级的<流星作战>/<G小队>机体通过战斗伤害破坏对方的机体时，友方的该机体可以回复2点。'
+  traits:
+  - G小队
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-029
+  pack: GD03
+  rarity: C
+  name: 重装高达改
+  color: 绿色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与对方所有拥有《阻挡者》效果的机体2点伤害。
+  traits:
+  - G小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 特罗瓦·巴顿
+  title_ref: “特罗瓦·巴顿”
+  series: 新机动战记高达W
+- id: ST02-010
+  pack: 预组02
+  rarity: C
+  name: 希罗·尤尔
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】此机体AP+1，HP+1。'
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 希罗·尤尔
+  title_ref: “希罗·尤尔”
+  series: 新机动战记高达W
+- id: GD02-020
+  pack: GD02
+  rarity: LR
+  name: 艾尔美斯
+  color: 绿色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: false
+  text: '【配置时】确认我方卡组最上方的5张卡牌，可以公开其中1张绿色的〈吉翁〉机师卡牌并加入手牌。剩余的卡牌随机放回到卡组最下方。
+
+    【共鸣中】此机体的AP+2。'
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 拉拉·辛
+  title_ref: “拉拉·辛”
+  series: 机动战士高达
+- id: GD02-088
+  pack: GD02
+  rarity: R
+  name: 菲利特·明日野
+  color: 绿色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】确认我方卡组最上方的3张卡牌，可以公开其中1张绿色的〈地球联邦〉机体卡牌/1张卡牌或名称中包含“AGE装置”的卡牌并加入手牌。剩余的卡牌随机放回到卡组最下方。'
+  traits:
+  - 地球联邦
+  - 明日野家
+  - X-Rounder
+  resonance:
+    kind: pilot_name
+    values:
+    - 菲利特·明日野
+  title_ref: “菲利特·明日野”
+  series: 机动战士高达AGE
+- id: GD02-033
+  pack: GD02
+  rarity: C
+  name: 基克罗格（MA形态）（GQ）
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: false
+  text: 友方战斗区中存在此机体以外的<吉翁>机体期间，此机体获得《突破5》效果。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏利尔·布尔
+  title_ref: “夏利尔·布尔”
+  series: 机动战士高达GQuuuuuuX
+- id: GD02-021
+  pack: GD02
+  rarity: LR
+  name: 高达AGE-1标准型
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】可以丢弃我方手牌中1张绿色的<地球联邦>机体卡牌。若那样做的话，则我方放置1张EX能源。此后，若我方为Lv.7或更高等级，则我方抽取1张手牌。
+  traits:
+  - 地球联邦
+  - AGE系统
+  resonance:
+    kind: pilot_trait
+    values:
+    - 明日野家
+  title_ref: 特征<明日野家>
+  series: 机动战士高达AGE
+- id: GD03-126
+  pack: GD03
+  rarity: C
+  name: 独眼巨人队
+  color: 绿色
+  type: 基地
+  lv: 4
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    对方的回合中，友方所有机体替代卡的AP+1。'
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达0080口袋里的战争
+- id: ST06-015
+  pack: 预组06
+  rarity: C
+  name: 加涅邦有限公司
+  color: 绿色
+  type: 基地
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【每回合1次】当友方<军团>的机体共鸣时，本回合中，使其获得《突破3》效果。'
+  traits:
+  - 军团
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-092
+  pack: GD01
+  rarity: C
+  name: 马·克贝
+  color: 绿色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    此机体为<吉翁>的期间，此机体获得《突破1》效果。'
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 马·克贝
+  title_ref: “马·克贝”
+  series: 机动战士高达
+- id: GD02-089
+  pack: GD02
+  rarity: U
+  name: 拉拉·辛
+  color: 绿色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】选择我方1张此机体以外的<吉翁>共鸣机体。本回合中，使其获得《突破1》效果。'
+  traits:
+  - 吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 拉拉·辛
+  title_ref: “拉拉·辛”
+  series: 机动战士高达
+- id: GD01-042
+  pack: GD01
+  rarity: C
+  name: 里奥（迪奥机）
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 此机体可以选择对方活跃状态的等级不高于Lv.2的机体作为攻击对象。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪奥·麦克斯韦尔
+  title_ref: “迪奥·麦克斯韦尔”
+  series: 新机动战记高达W
+- id: GD02-026
+  pack: GD02
+  rarity: U
+  name: 杰诺亚斯改装型
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若我方为Lv.7或更高等级，则选择我方1张<AGE系统>的机体。本回合中，使其AP+2。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 沃尔夫·艾尼阿克尔
+  title_ref: “沃尔夫·艾尼阿克尔”
+  series: 机动战士高达AGE
+- id: ST07-008
+  pack: 预组07
+  rarity: C
+  name: 主天使高达
+  color: 绿色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 3
+  hp: 1
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿雷路亚·帕普蒂兹姆
+    - 哈雷路亚·帕普蒂兹姆
+  title_ref: '“阿雷路亚·帕普蒂兹姆”/
+
+    “哈雷路亚·帕普蒂兹姆”'
+  series: 机动战士高达OO
+- id: GD01-039
+  pack: GD01
+  rarity: C
+  name: 多普战斗机
+  color: 绿色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】确认我方卡组最上方的1张卡牌，将其放回到卡组最上方或最下方。
+  traits:
+  - 吉翁
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD01-126
+  pack: GD01
+  rarity: C
+  name: 地底沙漠基地
+  color: 绿色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 6
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。'
+  traits:
+  - 马格亚那克队
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD01-023
+  pack: GD01
+  rarity: LR
+  name: 夏亚专用格鲁古古
+  color: 绿色
+  type: 机体
+  lv: 4
+  cost: 4
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【启动·主要】丢弃我方手牌中1张<吉翁>/<新吉翁>的机体卡牌：若此机体没有被机师搭乘，则选择我方废弃区中1张等级不高于Lv.3的<新人类>的机师卡牌，将其搭乘此机体。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏亚·阿兹纳布尔
+  title_ref: “夏亚·阿兹纳布尔”
+  series: 机动战士高达
+- id: GD01-090
+  pack: GD01
+  rarity: R
+  name: 迪奥·麦克斯韦尔
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】此机体的AP不会因对方的效果而减少。'
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪奥·麦克斯韦尔
+  title_ref: “迪奥·麦克斯韦尔”
+  series: 新机动战记高达W
+- id: GD01-090
+  pack: GD01
+  rarity: C
+  name: 夏利尔·布尔（GQ）
+  color: 绿色
+  type: 机师
+  lv: 5
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】我方战斗区中存在此机体以外的拥有《高机动》效果的机体期间，此机体的AP+1。'
+  traits:
+  - 吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏利尔·布尔（GQ）
+  title_ref: “夏利尔·布尔（GQ）”
+  series: 机动战士高达GQuuuuuuX
+- id: ST06-010
+  pack: 预组06
+  rarity: C
+  name: 修司伊藤
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【攻击时】若我方战斗区中存在<军团>的机体，则可以确认我方卡组最上方的1张卡牌，将其放回到卡组最上方或最下方。'
+  traits:
+  - 军团
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 修司伊藤
+  title_ref: “修司伊藤”
+  series: 机动战士高达GQuuuuuuX
+- id: ST07-011
+  pack: 预组07
+  rarity: C
+  name: 洛克昂·史特拉托斯（尼尔）
+  color: 绿色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】若此机体为<CB>，则本回合中，此机体可以选择对方活跃状态且等级不高于此机体Lv.数值的机体作为攻击对象。'
+  traits:
+  - CB
+  resonance:
+    kind: pilot_name
+    values:
+    - 洛克昂·史特拉托斯
+  title_ref: “洛克昂·史特拉托斯”
+  series: 机动战士高达OO
+- id: ST03-011
+  pack: 预组03
+  rarity: C
+  name: 夏亚·阿兹纳布尔
+  color: 绿色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】本回合中，此机体的AP+1，若此机体为共鸣机体，则此机体获得《高机动》效果。'
+  traits:
+  - 吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 夏亚·阿兹纳布尔
+  title_ref: “夏亚·阿兹纳布尔”
+  series: 机动战士高达
+- id: ST02-012
+  pack: 预组02
+  rarity: C
+  name: 全弹发射
+  color: 绿色
+  type: 指令/机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择我方的1张机体。本回合中，其获得《突破3》效果。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 特罗瓦·巴顿
+  title_ref: “特罗瓦·巴顿”
+  series: 新机动战记高达W
+- id: GD03-025
+  pack: GD03
+  rarity: U
+  name: 沙漠高达改
+  color: 绿色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 当对方的机体攻击时，尽可能选择我方休息状态的<马格亚那克队>机体作为攻击对象。
+  traits:
+  - G小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡特尔·拉巴伯·温拿
+  title_ref: “卡特尔·拉巴伯·温拿”
+  series: 新机动战记高达W
+- id: GD01-038
+  pack: GD01
+  rarity: U
+  name: 阿萨姆
+  color: 绿色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 2
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】若对方战斗区中存在5张或更多机体，则给与对方的所有机体1点伤害。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_trait
+    values:
+    - 吉翁
+  title_ref: 特征<吉翁>
+  series: 机动战士高达
+- id: ST02-015
+  pack: 预组02
+  rarity: C
+  name: 圣加布里埃尔学园
+  color: 绿色
+  type: 基地
+  lv: 2
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    此后，确认我方卡组最上方的2张卡牌，将其中各1张卡牌分别放回到最上方和最下方。'
+  traits:
+  - 学园
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD02-123
+  pack: GD02
+  rarity: R
+  name: 佐冬
+  color: 绿色
+  type: 基地
+  lv: 3
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，选择友方的1张机体替代卡。本回合中，其可以选择对方1张活跃状态且AP不高于5的机体作为攻击对象。'
+  traits:
+  - 吉翁
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: ST07-012
+  pack: 预组07
+  rarity: C
+  name: 阿雷路亚·帕普蒂兹姆
+  color: 绿色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    我方的回合中，我方战斗区中存在<CB>共鸣机体的期间，此机体不会受到来自对方AP不高于3的机体的战斗伤害。'
+  traits:
+  - CB
+  - 超兵
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿雷路亚·帕普蒂兹姆
+  title_ref: “阿雷路亚·帕普蒂兹姆”
+  series: 机动战士高达OO
+- id: GD01-105
+  pack: GD01
+  rarity: R
+  name: 奋起吧！国民！
+  color: 绿色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【主要】本回合中，我方所有机体的AP+2。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: ST02-002
+  pack: 预组02
+  rarity: C
+  name: 飞翼高达（巡航形态）
+  color: 绿色
+  type: 机体
+  lv: 3
+  cost: 3
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】我方放置1张EX能源。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 希罗·尤尔
+  title_ref: “希罗·尤尔”
+  series: 新机动战记高达W
+- id: GD02-104
+  pack: GD02
+  rarity: U
+  name: 历史的分岔点
+  color: 绿色
+  type: 指令
+  lv: 1
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】确认我方卡组最上方的3张卡牌，将其中的1张卡牌放回到卡组最上方。剩余的卡牌随机放回卡组到最下方。此后，若我方战斗区中存在<新人类>的机师，则我方抽取1张牌。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达GQuuuuuuX
+- id: GD03-107
+  pack: GD03
+  rarity: C
+  name: 渡河穿林
+  color: 绿色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择对方1张等级不高于Lv.5的机体。给与其等同于友方机体替代卡数量的伤害。
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_name
+    values:
+    - 哈迪·斯坦纳
+  title_ref: “哈迪·斯坦纳”
+  series: 机动战士高达0080口袋里的战争
+- id: ST02-013
+  pack: 预组02
+  rarity: C
+  name: 温和的音色
+  color: 绿色
+  type: 指令/机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】本次战斗中，我方护盾区中的卡牌，不受到来自对方等级不高于Lv.4的机体的伤害。
+  traits:
+  - 流星作战
+  resonance:
+    kind: pilot_name
+    values:
+    - 卡特尔·拉巴伯·温拿
+  title_ref: “卡特尔·拉巴伯·温拿”
+  series: 新机动战记高达W
+- id: ST03-014
+  pack: 预组03
+  rarity: C
+  name: 蓝色巨星
+  color: 绿色
+  type: 指令/机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择友方的1张机体。本次战斗中，其不会受到来自对方AP不高于2的机体的战斗伤害。
+  traits:
+  - 吉翁
+  resonance:
+    kind: pilot_name
+    values:
+    - 兰巴·拉尔
+  title_ref: “兰巴·拉尔”
+  series: 机动战士高达
+- id: GD03-105
+  pack: GD03
+  rarity: R
+  name: 舰桥船员
+  color: 绿色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【主要】选择友方的1张机体。本回合中，其可以选择对方活跃状态且没有被机师搭乘的机体作为攻击对象。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO
+- id: GD03-021
+  pack: GD03
+  rarity: R
+  name: 地狱死神高达
+  color: 绿色
+  type: 机体
+  lv: 8
+  cost: 7
+  ap: 6
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张<流星作战>/<G小队>的机体。本回合中，其可以选择对方活跃状态的机体作为攻击对象。
+  traits:
+  - G小队
+  resonance:
+    kind: pilot_name
+    values:
+    - 迪奥·麦克斯韦尔
+  title_ref: “迪奥·麦克斯韦尔”
+  series: 新机动战记高达W
+- id: GD03-089
+  pack: GD03
+  rarity: U
+  name: 巴纳德·维兹曼
+  color: 绿色
+  type: 机师
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    此机体AP+的数值，等同于我方废弃区中不同卡牌名称的<独眼巨人队>机师卡牌/<独眼巨人队>指令卡牌的数量。'
+  traits:
+  - 吉翁
+  - 独眼巨人队
+  resonance:
+    kind: pilot_name
+    values:
+    - 巴纳德·维兹曼
+  title_ref: “巴纳德·维兹曼”
+  series: 机动战士高达0080口袋里的战争
+- id: GD01-110
+  pack: GD01
+  rarity: C
+  name: 拉席德的命令
+  color: 绿色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择1张等级不低于Lv.4的机体。本回合中，它可以选择AP不高于6的对方机体作为攻击对象。
+  traits:
+  - 马格亚那克队
+  resonance:
+    kind: pilot_name
+    values:
+    - 拉席德·库拉玛
+  title_ref: “拉席德·库拉玛”
+  series: 新机动战记高达W
+- id: GD02-105
+  pack: GD02
+  rarity: U
+  name: 首席毕业生
+  color: 绿色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择我方的1张机体替代卡。本次战斗中，其不会受到来自对方机体的战斗伤害。
+  traits:
+  - 吉翁
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 泽维尔·奥利维特
+  title_ref: “泽维尔·奥利维特”
+  series: 机动战士高达GQuuuuuuX
+- id: GD02-106
+  pack: GD02
+  rarity: C
+  name: 白狼
+  color: 绿色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】本次战斗中，我方护盾区中的卡牌不会受到来自对方等级不高于Lv.3的机体的伤害。
+  traits:
+  - 地球联邦
+  resonance:
+    kind: pilot_name
+    values:
+    - 沃尔夫·艾尼阿克尔
+  title_ref: “沃尔夫·艾尼阿克尔”
+  series: 机动战士高达AGE
+- id: ST06-011
+  pack: 预组06
+  rarity: C
+  name: 冷酷的战术
+  color: 绿色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1~2张机体。此回合中，使其AP+2。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 盖亚（GQ）
+  title_ref: “盖亚（GQ）”
+  series: 机动战士高达GQuuuuuuX
+- id: ST06-013
+  pack: 预组06
+  rarity: C
+  name: 猛将联合
+  color: 绿色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择我方1~2张〈军团〉的机体。本回合中，其不会受到来自对方等级不高于Lv.2的机体的战斗伤害。
+  traits:
+  - 军团
+  resonance:
+    kind: pilot_name
+    values:
+    - 奥尔迪加（GQ）
+  title_ref: “奥尔迪加（GQ）”
+  series: 机动战士高达GQuuuuuuX
+- id: GD01-109
+  pack: GD01
+  rarity: C
+  name: 胜利与败北的轨迹
+  color: 绿色
+  type: 指令
+  lv: 5
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】确认我方卡组最上方的5张卡牌，可以公开其中1张〈流星作战〉/〈G小队〉的机体卡牌/机师卡牌并加入手牌。剩余的卡牌随机放回到卡组最下方。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD01-108
+  pack: GD01
+  rarity: U
+  name: 战略级兵器
+  color: 绿色
+  type: 指令
+  lv: 6
+  cost: 6
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】给与所有拥有《阻挡者》的机体2点伤害。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达
+- id: GD02-103
+  pack: GD02
+  rarity: R
+  name: AGE装置
+  color: 绿色
+  type: 指令
+  lv: 4
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择我方废弃区中1张<明日野家>的机师卡牌。将其加入手牌。
+
+    【主要】若我方战斗区中存在<AGE系统>的机体，则我方放置1张EX能源。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: null
+- id: GD01-107
+  pack: GD01
+  rarity: U
+  name: 初次相遇
+  color: 绿色
+  type: 指令
+  lv: 3
+  cost: 3
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】我方放置1张EX能源。
+
+    【主要】我方放置1张休息状态的能源。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 新机动战记高达W
+- id: GD03-068
+  pack: GD03
+  rarity: C
+  name: 高达·端白星
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 友方护盾区中存在基地的期间，此机体获得《阻挡者》效果。
+  traits:
+  - 民间
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 维斯塔里奥·阿法姆
+  title_ref: “维斯塔里奥·阿法姆”
+  series: 机动战士高达 铁血的孤儿UH
+- id: ST07-004
+  pack: 预组07
+  rarity: C
+  name: 德天使高达
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 我方战斗区中存在<CB>机师的期间，此机体获得《阻挡者》效果。
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 提耶利亚·厄德
+  title_ref: “提耶利亚·厄德”
+  series: 机动战士高达OO
+- id: GD02-059
+  pack: GD02
+  rarity: U
+  name: 空中霸王高达
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_trait
+    values:
+    - 猎鹰
+  title_ref: 特征<猎鹰>
+  series: 机动新世纪高达X
+- id: GD03-057
+  pack: GD03
+  rarity: U
+  name: GN装甲 TYPE-E
+  color: 紫色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 《阻挡者》
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_trait
+    values:
+    - CB
+  title_ref: 特征<CB>
+  series: 机动战士高达OO
+- id: GD02-127
+  pack: GD02
+  rarity: U
+  name: 自由号
+  color: 紫色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【破坏时】将我方卡组最上方的2张卡牌，置于我方的废弃区中。'
+  traits:
+  - 猎鹰
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD03-063
+  pack: GD03
+  rarity: C
+  name: 0高达
+  color: 紫色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO
+- id: ST05-004
+  pack: 预组05
+  rarity: C
+  name: 格雷兹改
+  color: 紫色
+  type: 机体
+  lv: 2
+  cost: 1
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 铁华团
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-068
+  pack: GD02
+  rarity: C
+  name: 高达·巴巴托斯（第3形态）
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】给与此机体2点伤害。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_trait
+    values:
+    - 铁华团
+  title_ref: 特征<铁华团>
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-061
+  pack: GD02
+  rarity: U
+  name: 百里
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘时·紫色的机师】若我方废弃区存在不少于3张<迪瓦兹>/<铁华团>的卡牌，则选择对方1张AP不高于3的机体。将其转为休息状态。
+  traits:
+  - 迪瓦兹
+  resonance:
+    kind: pilot_trait
+    values:
+    - 迪瓦兹
+  title_ref: 特征<迪瓦兹>
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-063
+  pack: GD02
+  rarity: C
+  name: 空中霸王高达（斗士模式）
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_trait
+    values:
+    - 猎鹰
+  title_ref: 特征<猎鹰>
+  series: 机动新世纪高达X
+- id: GD03-062
+  pack: GD03
+  rarity: C
+  name: GX-Bit
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若此机体是从废弃区中配置的，则选择对方1张AP不高于4的机体。给与其2点伤害。
+  traits:
+  - 旧联邦
+  - 猎鹰
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD03-065
+  pack: GD03
+  rarity: C
+  name: 杰达斯M
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - 维根
+  resonance:
+    kind: pilot_trait
+    values:
+    - X-Rounder
+  title_ref: 特征<X-Rounder>
+  series: 机动战士高达AGE
+- id: ST05-014
+  pack: 预组05
+  rarity: C
+  name: 致命一击
+  color: 紫色
+  type: 指令
+  lv: 4
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方的1张机体。给与其1点伤害。
+
+    【主要】选择对方1张等级不高于Lv.3的机体。将其破坏。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-057
+  pack: GD02
+  rarity: R
+  name: 杰达斯
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 3
+  ap: 5
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【搭乘中】【攻击时】可以选择此机体以外的1张我方机体。将其破坏。若那样做的话，选择对方1张等级不高于Lv.4的机体。给与其2点伤害。
+  traits:
+  - UE
+  - 维根
+  resonance:
+    kind: pilot_name
+    values:
+    - 德西尔·加勒特
+  title_ref: “德西尔·加勒特”
+  series: 机动战士高达AGE
+- id: GD02-111
+  pack: GD02
+  rarity: R
+  name: 决战的王牌
+  color: 紫色
+  type: 指令
+  lv: 5
+  cost: 4
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】选择对方1张等级不高于Lv.3的机体。给与其2点伤害。
+
+    【主要】选择我方废弃区中6张紫色的机体卡牌，将选择的卡牌从游戏中移除。若那样做的话，则选择对方的1张机体。将其破坏。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD03-061
+  pack: GD03
+  rarity: U
+  name: 高达·巴巴托斯（第6形态）
+  color: 紫色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 此机体HP为1的期间，获得《修复3》效果。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: ST05-010
+  pack: 预组05
+  rarity: C
+  name: 三日月·奥古斯
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】选择我方1张机体和对方的1张机体。给与选择的机体1点伤害。'
+  traits:
+  - 铁华团
+  - 阿赖耶识
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: ST05-001
+  pack: 预组05
+  rarity: LR
+  name: 高达·巴巴托斯（第4形态）
+  color: 紫色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 4
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【配置时】选择我方1张此机体以外的机体。给与其1点伤害，且本回合中，使其获得AP+1。
+
+    此机体受到伤害的期间，使此机体获得《压制》效果。'
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 三日月·奥古斯
+  title_ref: “三日月·奥古斯”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-114
+  pack: GD03
+  rarity: R
+  name: 决意的眼神
+  color: 紫色
+  type: 指令
+  lv: 2
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】发动此卡牌的【瞬动】效果。
+
+    【瞬动】选择对方1张活跃状态且等级不高于Lv.2的机体。将其破坏。若我方废弃区中有10张或更多卡牌，则改为选择对方1张活跃状态且等级不高于Lv.4的机体。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-051
+  pack: GD03
+  rarity: R
+  name: 高达X分裂者
+  color: 紫色
+  type: 机体
+  lv: 6
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【共鸣时】可以选择我方废弃区中1张等级不高于Lv.4的机体卡牌。支付费用将其配置。
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_name
+    values:
+    - 加罗德·兰
+    - 贾米尔·尼特
+  title_ref: '“加罗德·兰”/
+
+    “贾米尔·尼特”'
+  series: 机动新世纪高达X
+- id: GD02-096
+  pack: GD02
+  rarity: C
+  name: 德西尔·加勒特
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣时】可以选择我方废弃区中1张等级不高于Lv.2的<维根>机体卡牌。支付费用将其配置。'
+  traits:
+  - 维根
+  - X-Rounder
+  resonance:
+    kind: pilot_name
+    values:
+    - 德西尔·加勒特
+  title_ref: “德西尔·加勒特”
+  series: 机动战士高达AGE
+- id: GD03-129
+  pack: GD03
+  rarity: U
+  name: 萤火
+  color: 紫色
+  type: 基地
+  lv: 4
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    我方的回合中，当友方<铁华团>/<迪瓦兹>的机体受到效果伤害时，可以将此基地转为休息状态。若那样做的话，则将我方卡组最上方的1张卡牌，置于我方的废弃区中。'
+  traits:
+  - 铁华团
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-053
+  pack: GD03
+  rarity: R
+  name: 高达·古辛 深度重锻型
+  color: 紫色
+  type: 机体
+  lv: 6
+  cost: 5
+  ap: 5
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: '《阻挡者》
+
+    【搭乘中】【每回合1次】我方的回合中，当我方<铁华团>/<迪瓦兹>的机体受到效果伤害时，选择对方1张等级不高于Lv.4的机体。将其转为休息状态。'
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 昭弘·阿尔特兰
+  title_ref: “昭弘·阿尔特兰”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-059
+  pack: GD03
+  rarity: U
+  name: 杰达斯R
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 4
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 【攻击时】可以选择我方废弃区中1张<维根>的卡牌。将其从游戏中移除。若那样做的话，则选择我方1张<维根>的机体。本回合中，使其AP+2。
+  traits:
+  - 维根
+  resonance:
+    kind: pilot_trait
+    values:
+    - X-Rounder
+  title_ref: 特征<X-Rounder>
+  series: 机动战士高达AGE
+- id: GD03-067
+  pack: GD03
+  rarity: C
+  name: 漏影
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: false
+    ground: true
+  text: 【配置时】可以选择我方的1张机体。给与其1点伤害，本回合中，使其AP+1。
+  traits:
+  - 迪瓦兹
+  - 铁华团
+  resonance:
+    kind: pilot_trait
+    values:
+    - 迪瓦兹
+    - 铁华团
+  title_ref: 特征<迪瓦兹>/<铁华团>
+  series: 机动战士高达 铁血的孤儿
+- id: ST05-005
+  pack: 预组05
+  rarity: C
+  name: 高达·古辛 重锻型
+  color: 紫色
+  type: 机体
+  lv: 4
+  cost: 3
+  ap: 3
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【破坏时】选择对方1张AP不高于4的机体。将其转为休息状态。
+  traits:
+  - 铁华团
+  - 高达骨架
+  resonance:
+    kind: pilot_name
+    values:
+    - 昭弘·阿尔特兰
+  title_ref: “昭弘·阿尔特兰”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-058
+  pack: GD02
+  rarity: R
+  name: 流星号（格雷兹改二）
+  color: 紫色
+  type: 机体
+  lv: 3
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】选择我方1张机体。给与其1点伤害。若那样做的话，则我方抽取1张卡牌。此后，丢弃我方的1张手牌。
+  traits:
+  - 铁华团
+  resonance:
+    kind: pilot_trait
+    values:
+    - 铁华团
+  title_ref: 特征<铁华团>
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-067
+  pack: GD02
+  rarity: C
+  name: 巴克特
+  color: 紫色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: 无
+  traits:
+  - UE
+  - 维根
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: GD02-065
+  pack: GD02
+  rarity: C
+  name: 杰尼斯改
+  color: 紫色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 无
+  traits:
+  - 猎鹰
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD03-052
+  pack: GD03
+  rarity: R
+  name: 德天使高达
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 3
+  hp: 3
+  terrain:
+    space: true
+    ground: true
+  text: '【启动·主要】《支援2》
+
+    此机体对等级不高于Lv.5的对方机体造成战斗伤害时，若我方战斗区中存在<CB>的机师，则将该对方机体破坏。'
+  traits:
+  - CB
+  - GN太阳炉
+  resonance:
+    kind: pilot_name
+    values:
+    - 提耶利亚·厄德
+  title_ref: “提耶利亚·厄德”
+  series: 机动战士高达OO
+- id: ST05-015
+  pack: 预组05
+  rarity: C
+  name: 渔火号
+  color: 紫色
+  type: 基地
+  lv: 3
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    【启动·主要】将此基地转为休息状态：选择我方1张受到过伤害的机体。本回合中，使其AP+2。'
+  traits:
+  - 铁华团
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-128
+  pack: GD02
+  rarity: C
+  name: 战锤
+  color: 紫色
+  type: 基地
+  lv: 4
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若是我方的回合，且战斗区存在友方的<迪瓦兹>共鸣机体，则选择对方1张AP不高于2的机体。将其破坏。'
+  traits:
+  - 迪瓦兹
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: ST05-011
+  pack: 预组05
+  rarity: C
+  name: 昭弘·阿尔特兰
+  color: 紫色
+  type: 机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】我方的回合中，当此机体通过战斗伤害破坏对方的机体时，选择我方废弃区中1张等级不高于Lv.2的<铁华团>机体。将其加入手牌。'
+  traits:
+  - 铁华团
+  - 阿赖耶识
+  resonance:
+    kind: pilot_name
+    values:
+    - 昭弘·阿尔特兰
+  title_ref: “昭弘·阿尔特兰”
+  series: 机动战士高达 铁血的孤儿
+- id: ST07-010
+  pack: 预组07
+  rarity: C
+  name: 提耶利亚·厄德
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【破坏时】在对方的回合，若此机体为<CB>，则我方抽取1张卡牌。'
+  traits:
+  - CB
+  - 变革者
+  resonance:
+    kind: pilot_name
+    values:
+    - 提耶利亚·厄德
+  title_ref: “提耶利亚·厄德”
+  series: 机动战士高达OO
+- id: GD02-094
+  pack: GD02
+  rarity: R
+  name: 加罗德·兰&蒂法·安迪尔
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【搭乘时】可以丢弃我方的1张手牌。若那样做的话，则确认我方卡组最上方的3张卡牌，可以公开其中1张<猎鹰>的机体卡牌并加入手牌。剩余的卡牌随机放回到卡组最下方。'
+  traits:
+  - 猎鹰
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 加罗德·兰
+    - 蒂法·安迪尔
+  title_ref: '“加罗德·兰”/
+
+    “蒂法·安迪尔”'
+  series: 机动新世纪高达X
+- id: GD02-060
+  pack: GD02
+  rarity: U
+  name: 斑豹高达
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】若我方废弃区存在不少于7张卡，则选择对方1张等级不超过Lv.4的机体。将其转为休息状态。
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_name
+    values:
+    - 罗比·罗伊
+  title_ref: “罗比·罗伊”
+  series: 机动新世纪高达X
+- id: GD02-064
+  pack: GD02
+  rarity: C
+  name: 斑豹高达
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 4
+  hp: 4
+  terrain:
+    space: true
+    ground: true
+  text: 我方回合中，我方废弃区存在不少于7张卡的期间，此机体不会受到对方指令的效果伤害。
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_trait
+    values:
+    - 猎鹰
+  title_ref: 特征<猎鹰>
+  series: 机动新世纪高达X
+- id: GD03-058
+  pack: GD03
+  rarity: U
+  name: 法尔西娅
+  color: 紫色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 2
+  hp: 2
+  terrain:
+    space: true
+    ground: true
+  text: 废弃区中的此卡牌费用-1。
+  traits:
+  - UE
+  - 维根
+  resonance:
+    kind: pilot_name
+    values:
+    - 尤琳·路歇尔
+  title_ref: “尤琳·路歇尔”
+  series: 机动战士高达AGE
+- id: ST05-003
+  pack: 预组05
+  rarity: C
+  name: CGS机动工兵
+  color: 紫色
+  type: 机体
+  lv: 1
+  cost: 1
+  ap: 0
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 【启动·主要】将此机体转为休息状态：选择我方的1张机体。给与其1点伤害，且本回合中，使其AP+1。
+  traits:
+  - 铁华团
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: ST07-015
+  pack: 预组07
+  rarity: C
+  name: 托勒密号
+  color: 紫色
+  type: 基地
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 5
+  terrain:
+    space: false
+    ground: true
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。
+
+    友方战斗区存在休息状态的<CB>机体期间，此基地不会受到来自对方机体替代卡以外的等级不高于Lv.3的机体的伤害。'
+  traits:
+  - CB
+  - 舰船
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO
+- id: GD02-095
+  pack: GD02
+  rarity: U
+  name: 拉芙达·弗兰克兰多
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】若此机体受到过伤害且等级不高于Lv.5，则本次战斗中，此机体获得《高机动》效果。'
+  traits:
+  - 迪瓦兹
+  resonance:
+    kind: pilot_name
+    values:
+    - 拉芙达·弗兰克兰多
+  title_ref: “拉芙达·弗兰克兰多”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-095
+  pack: GD03
+  rarity: U
+  name: 阿吉·古鲁明
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【每回合1次】当此机体受到效果伤害时，选择对方的1张机体。本回合中，使其AP-1。'
+  traits:
+  - 迪瓦兹
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿吉·古鲁明
+  title_ref: “阿吉·古鲁明”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-096
+  pack: GD03
+  rarity: C
+  name: 贾米尔·尼特
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【攻击时】可以丢弃我方的1张手牌。若那样做的话，则我方抽取1张卡牌。'
+  traits:
+  - 猎鹰
+  - 新人类
+  resonance:
+    kind: pilot_name
+    values:
+    - 贾米尔·尼特
+  title_ref: “贾米尔·尼特”
+  series: 机动新世纪高达X
+- id: GD03-097
+  pack: GD03
+  rarity: C
+  name: 维斯塔里奥·阿法姆
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 1
+  hp: 2
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【共鸣中】【每回合1次】我方回合中，当此机体通过战斗伤害破坏对方的机体时，确认我方卡组上方的2张卡牌，将其中的1张卡牌放回到卡组最上方。剩余的卡牌置于我方的废弃区中。'
+  traits:
+  - 民间
+  resonance:
+    kind: pilot_name
+    values:
+    - 维斯塔里奥·阿法姆
+  title_ref: “维斯塔里奥·阿法姆”
+  series: 机动战士高达 铁血的孤儿UH
+- id: ST07-009
+  pack: 预组07
+  rarity: C
+  name: 刹那·F·清英
+  color: 紫色
+  type: 机师
+  lv: 4
+  cost: 1
+  ap: 2
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】此卡牌加入手牌。
+
+    【攻击时】本回合中，此机体的AP+1。若我方废弃区中有7张或更多<CB>的卡牌，则改为我方所有<CB>机体的AP+1。'
+  traits:
+  - CB
+  resonance:
+    kind: pilot_name
+    values:
+    - 刹那·F·清英
+  title_ref: “刹那·F·清英”
+  series: 机动战士高达OO
+- id: GD03-130
+  pack: GD03
+  rarity: C
+  name: 达乌尼斯
+  color: 紫色
+  type: 基地
+  lv: 5
+  cost: 2
+  ap: 0
+  hp: 5
+  terrain:
+    space: true
+    ground: false
+  text: '【爆发】配置此卡牌。
+
+    【配置时】将我方的1张护盾加入手牌。此后，若是我方的回合，则可以选择我方废弃区中1张等级不高于Lv.4的<维根>机体卡牌。支付费用将其配置。'
+  traits:
+  - 维根
+  - 据点
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: GD03-064
+  pack: GD03
+  rarity: C
+  name: 迪法斯
+  color: 紫色
+  type: 机体
+  lv: 5
+  cost: 4
+  ap: 2
+  hp: 5
+  terrain:
+    space: true
+    ground: true
+  text: 【配置时】可以选择我方废弃区中1张<X-Rounder>的卡牌。将其加入手牌。若那样做的话，则丢弃我方的1张手牌。
+  traits:
+  - UE
+  - 维根
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: GD03-060
+  pack: GD03
+  rarity: U
+  name: CGS机动工兵（指挥官机）
+  color: 紫色
+  type: 机体
+  lv: 2
+  cost: 2
+  ap: 0
+  hp: 2
+  terrain:
+    space: false
+    ground: true
+  text: 【每回合1次】我方的回合中，当此机体受到效果伤害时，配置1张休息状态的“CGS机动工兵”（<铁华团>·AP1·HP1）的机体替代卡。
+  traits:
+  - 铁华团
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-110
+  pack: GD02
+  rarity: R
+  name: 觉醒的力量
+  color: 紫色
+  type: 指令
+  lv: 6
+  cost: 2
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】选择我方废弃区中1张等级不高于Lv.5的机体卡牌。支付费用并将其配置。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动新世纪高达X
+- id: GD02-114
+  pack: GD02
+  rarity: U
+  name: 其名为流星号
+  color: 紫色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张受到伤害的机体。本回合中，使其AP+2。
+  traits:
+  - 铁华团
+  - 阿赖耶识
+  resonance:
+    kind: pilot_name
+    values:
+    - 诺尔巴·西诺
+  title_ref: “诺尔巴·西诺”
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-115
+  pack: GD02
+  rarity: C
+  name: 对家人的思念
+  color: 紫色
+  type: 指令/机师
+  lv: 2
+  cost: 1
+  ap: 0
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张<猎鹰>的机体。本回合中，使其AP+2。
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_name
+    values:
+    - 维兹·斯
+  title_ref: “维兹·斯”
+  series: 机动新世纪高达X
+- id: GD02-116
+  pack: GD02
+  rarity: C
+  name: 伙伴意识
+  color: 紫色
+  type: 指令/机师
+  lv: 3
+  cost: 1
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】若我方废弃区中存在不少于7张卡牌，则选择友方1张<猎鹰>的机体。本回合中，其可以选择对方等级不高于Lv.4的活跃状态的机体为攻击对象。
+  traits:
+  - 猎鹰
+  resonance:
+    kind: pilot_name
+    values:
+    - 罗比·罗伊
+  title_ref: “罗比·罗伊”
+  series: 机动新世纪高达X
+- id: GD03-115
+  pack: GD03
+  rarity: U
+  name: 久别重逢
+  color: 紫色
+  type: 指令
+  lv: 3
+  cost: '1'
+  ap: 1
+  hp: 0
+  terrain:
+    space: false
+    ground: false
+  text: 【瞬动】选择友方1张被<X-Rounder>机师搭乘的机体。本次战斗中，其不会受到来自对方AP不高于2的机体的战斗伤害。若我方为Lv.7或更高等级，则改为不会受到来自对方AP不高于5的机体的战斗伤害。
+  traits:
+  - 民间
+  - 维根
+  - X-Rounder
+  resonance:
+    kind: pilot_name
+    values:
+    - 尤琳·路歇尔
+  title_ref: “尤琳·路歇尔”
+  series: 机动战士高达AGE
+- id: GD02-112
+  pack: GD02
+  rarity: R
+  name: 小憩片刻
+  color: 紫色
+  type: 指令
+  lv: 4
+  cost: 3
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】我方抽取1张卡牌。
+
+    【主要】选择我方废弃区中1张紫色的机师卡牌。将其加入手牌。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: GD02-113
+  pack: GD02
+  rarity: U
+  name: 女中豪杰
+  color: 紫色
+  type: 指令/机师
+  lv: 4
+  cost: 2
+  ap: 1
+  hp: 1
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】若友方战斗区存在<迪瓦兹>的共鸣机体，则选择对方1张AP不超过2的机体。将其破坏。
+  traits: []
+  resonance:
+    kind: pilot_name
+    values:
+    - 阿米达·玛鲁卡
+  title_ref: “阿米达·玛鲁卡”
+  series: 机动战士高达 铁血的孤儿
+- id: GD03-116
+  pack: GD03
+  rarity: C
+  name: 迈向命运
+  color: 紫色
+  type: 指令
+  lv: 3
+  cost: '1'
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择友方1张<维根>的机体和对方的1张机体。给与选择的机体2点伤害。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达AGE
+- id: ST05-013
+  pack: 预组05
+  rarity: C
+  name: 铁与血
+  color: 紫色
+  type: 指令
+  lv: 2
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: 【主要】/【瞬动】选择我方的1张机体。给与其1点伤害，且本回合中，使其AP+3。
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达 铁血的孤儿
+- id: ST07-013
+  pack: 预组07
+  rarity: C
+  name: 武力介入
+  color: 紫色
+  type: 指令
+  lv: 4
+  cost: 1
+  ap: —
+  hp: —
+  terrain:
+    space: false
+    ground: false
+  text: '【爆发】我方抽取1张卡牌。
+
+    【瞬动】选择友方1张休息状态的<CB>机体。将战斗中对方机体的攻击对象改为该机体。'
+  traits: []
+  resonance:
+    kind: null
+    values: []
+  title_ref: ——————
+  series: 机动战士高达OO

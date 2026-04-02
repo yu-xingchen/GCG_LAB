@@ -1,0 +1,7 @@
+version: 1
+decks:
+  - id: "blue_purple_sample_50"
+    name: "blue_purple_sample_50"
+    file: "data/decks/blue_purple_sample_50.txt"
+    format: "Main Deck"
+    notes: "50-card sample deck from the current conversation"

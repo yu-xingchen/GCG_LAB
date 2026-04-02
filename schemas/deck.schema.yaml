@@ -1,0 +1,12 @@
+# deck txt / meta schema
+
+version: 1
+deck:
+  name: "blue_purple_sample"
+  format: "Main Deck"
+  entries:
+    - id: "ST01-005"
+      count: 4
+    - id: "ST05-004"
+      count: 4
+

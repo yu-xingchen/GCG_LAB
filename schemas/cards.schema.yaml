@@ -1,0 +1,29 @@
+# cards.yaml schema
+
+version: 1
+cards:
+  - id: "ST04-001"
+    pack: "预组04"
+    rarity: "LR"
+    name: "翔翼型强袭高达"
+    color: "白色"
+    type: "机体"
+    lv: 5
+    cost: 4
+    ap: 4
+    hp: 4
+    terrain:
+      space: true
+      ground: true
+    traits:
+      - "地球联合"
+    tags:
+      - "机体"
+    resonance:
+      kind: "pilot_name"
+      values:
+        - "基拉·大和"
+    text: |
+      《阻挡者》
+      【搭乘时·等级为Lv.4或更高的机师】选择对方1张HP不高于4的机体。将其放回到其持有者的手牌中。
+    notes: ""

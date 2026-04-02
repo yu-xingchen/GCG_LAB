@@ -1,0 +1,11 @@
+version: 1
+scenario:
+  id: "p22_blue_purple_sample"
+  deck_file: "data/decks/blue_purple_sample_50.txt"
+  play_order: "first"
+  turns: 10
+  objective: "maximize_board_value"
+  fallback_condition_probability: 0.5
+  enable_resonance_exact: true
+  enable_burst: false
+  notes: "Default P2-2 sample scenario: enumerate hand states and greedily maximize board value each turn"

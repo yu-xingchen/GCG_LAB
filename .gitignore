@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Generated / local outputs
+output/
+archive/
+tmp/
+
+# Spreadsheet artifacts
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+
+# Local backups / scratch files
+*.backup.*
+*.pre_*
+~$*
+
+# Keep directory structure if needed
+!output/.gitkeep
+!archive/.gitkeep

@@ -1,0 +1,12 @@
+# p22 scenario schema
+
+version: 1
+scenario:
+  deck_file: "data/decks/deck_blue_purple_sample.txt"
+  play_order: "first"
+  turns: 10
+  objective: "maximize_board_value"
+  fallback_condition_probability: 0.5
+  enable_resonance_exact: true
+  enable_burst: false
+

@@ -1,0 +1,22 @@
+# value_table.yaml schema
+
+version: 1
+effects:
+  - name: "阻挡者"
+    param1_name: "机体数量"
+    param2_name: null
+    outputs:
+      value: 1.5
+      board_value: 1.5
+      body_value: 0
+      hand_plus: 0
+      opponent_hand_plus: 0
+      threat_power: 0
+      threat_value: 0
+      survival_power: 1
+      survival_value: 1
+      convert_power: 1
+      convert_value: 0
+    condition_mode: "direct_or_conditional"
+    notes: "没有中括号就是直接效果，有书名号就是条件触发"
+
